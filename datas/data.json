@@ -1,0 +1,4752 @@
+[
+  {
+    "page": "1",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.1.1 IK 10",
+    "manu_name": "BEGA",
+    "title": " Luminaire  « type Diamant 84401-84402-84403-84404 »",
+    "description": {
+      "text1": "Luminaire à répartition lumineuse symétrique ou asymétrique équipé d’une",
+      "text2": "source LED à fixation portée ou sur console."
+    },
+    "terms_of_use": {
+      "text1": "Spécifique aux périmètres ZAC Seine Rive Gauche et au Tramway."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Deux photométries disponibles : symétrique et asymétrique.",
+      "text3": "Deux puissances (26W et 53W) disponibles par photométries.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Luminaire en fonderie d’aluminium, aluminium et acier inoxydable.",
+      "text3": "Vasque en verre de sécurité.",
+      "text4": "Facteur de Maintenance associé pour la source",
+      "text5": "(Mfb) annoncé par le fournisseur",
+      "text6": "L70B50 à 400000h"
+    },
+    "text19": "A",
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text24": "*",
+    "text25": "3000K",
+    "text26": "2700K",
+    "text27": "2200K"
+  },
+  {
+    "page": "10",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.1.10 IK 10++",
+    "manu_name": "SIGNIFY",
+    "title": " Luminaire  « CITYCHARM FLUID »",
+    "description": {
+      "text1": "Luminaire à répartition lumineuse symétrique ou asymétrique équipé d’une",
+      "text2": "source LED à fixation supportée."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers.",
+      "text2": "Hauteur du point lumineux 4 à 5m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Plusieurs optiques disponibles",
+      "text3": "Existe en version 8-20-40 Leds.",
+      "text4": "Gamme de température de couleur disponible et celles qualifiées (*) :",
+      "cma": "40 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en aluminium et vasque en polycarbonate clair.",
+      "text3": "Configuration maximale admissible 40 LEDs 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text18": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10++",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text23": "*",
+    "text24": "3000K",
+    "text25": "2700K 2200K"
+  },
+  {
+    "page": "100",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.I.12 IK 07",
+    "manu_name": "SIGNIFY",
+    "title": " Linéaire  « Vaya Linear »",
+    "description": {
+      "text1": "Luminaire linéaire d’extérieur pour éclairage rasant de faible hauteur."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance, d’illumination et de mise en valeur",
+      "text3": "patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Distributions photométriques variables : faisceau large de 120° ou",
+      "text3": "optiques elliptiques 28°x84°",
+      "text4": "2 tailles : 60cm ou 120cm",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier en aluminium extrudé.",
+      "text3": "Vitre en verre trempé."
+    },
+    "text18": "B",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR Ø",
+      "text3": "IK 07",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text23": "3000K",
+    "text24": "2700K",
+    "text25": "Couleur",
+    "text26": "4000K"
+  },
+  {
+    "page": "102",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P   L ab o r a t o i r e  d e l’espace public ULOR <1%",
+    "text3": "B.II.1 IK 10",
+    "manu_name": "ECLATEC",
+    "title": " Luminaire  « ELIPT LED »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale ou sommitale,",
+      "text2": "équipé d’une source LED, il se décline en différentes répartitions",
+      "text3": "lumineuses (symétrique, asymétrique, ...)."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage fonctionnel et routier.",
+      "text3": "Inclinaison réglable."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "2 tailles Elipt 45 et Elipt 55",
+      "text3": "Sources LED : Module REOLED 1 et 2",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "72 LEDs : 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps et plateau en aluminium injecté, dôme en aluminium repoussé serti.",
+      "text3": "Configuration maximale admissible 72 LEDs : 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text5": "Elipt 45",
+      "text6": "Elipt 55",
+      "text7": "Ø (mm) 455",
+      "text8": "555",
+      "text9": "H (mm) 175",
+      "text10": "215"
+    },
+    "text26": "B",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL I"
+    },
+    "text4": " CL I",
+    "text31": "et II",
+    "text32": "*",
+    "text33": "3000K",
+    "text34": "2700K 2200K"
+  },
+  {
+    "page": "104",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t  d e s   D é p l a c e m e n t s IP 68",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.III.1 IK 10",
+    "manu_name": "LEC",
+    "title": " Projecteur  « LUMINY 4 »",
+    "description": {
+      "text1": "Projecteur LED d’illumination pour l’éclairage d’arcades et de bâtiments."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance, d’illumination et de",
+      "text3": "mise en valeur patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Optiques variables 6°, 10°, 20°, 36°, 120° et Elliptique (40°x10°, 116°x44°, 130°x25°).",
+      "text3": "Disponible de 6 à 12LEDs.",
+      "text4": "Disponible en ambre, rouge, blanc, bleu, vert pouvant être mélangées.",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en aluminium.",
+      "text3": "Fenêtre en polycarbonate anti-UV et anti-vandalisme.",
+      "text4": "Luminaire A mm B mm C mm",
+      "text5": "Luminy 4 111 120 90"
+    },
+    "certifications": {
+      "text1": "IP 68",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL III"
+    },
+    "text21": "B",
+    "text4": " CL III",
+    "text24": "3000K",
+    "text25": "2700K",
+    "text26": "Couleur",
+    "text27": "4000K"
+  },
+  {
+    "page": "105",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t  d e s   D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.III.2 IK 07",
+    "manu_name": "LUCE LIGHT LYSS MINI",
+    "title": " Projecteur  &  «   1.",
+    "description": {
+      "text1": "Projecteur LED d’illumination pour l’éclairage d’arcades et fenêtres."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance, d’illumination et de",
+      "text3": "mise en valeur patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en 2 gammes de couleur : blanc et gris.",
+      "text3": "Optique claire 8°x160° ou satinée 9°x160°.",
+      "text4": "1LED-3W.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en plastique.",
+      "text3": "Luminaire A mm B mm C mm",
+      "text4": "LYSS MINI 1.0 62 73 40"
+    },
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR Ø",
+      "text3": "IK 07",
+      "text4": "CL III"
+    },
+    "text21": "B",
+    "text4": " CL III",
+    "text24": "3000K",
+    "text25": "2700K",
+    "text26": "Couleur",
+    "text27": "4000K"
+  },
+  {
+    "page": "106",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t  d e s   D é p l a c e m e n t s IP 68",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.III.3 IK Ø",
+    "manu_name": "LUMTEAM",
+    "title": " Projecteur  « Vega II »",
+    "description": {
+      "text1": "Projecteur LED d’illumination pour l’éclairage d’arcades et de bâtiments."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance, d’illumination et de",
+      "text3": "mise en valeur patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en 3 gammes : aluminium anodisé, laiton ou inox 316L.",
+      "text3": "Optiques variables : 10°, 24°, 30° et 50°",
+      "text4": "3LEDs-4.8W ou 3LEDs-3.4W.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier en aluminium anodisé, laiton ou inox 316L.",
+      "text3": "Luminaire A mm B mm C mm",
+      "text4": "Vega II 58 42 48"
+    },
+    "certifications": {
+      "text1": "IP 68",
+      "text2": "ULOR Ø",
+      "text3": "IK Ø",
+      "text4": "CL III"
+    },
+    "text21": "B",
+    "text4": " CL III",
+    "text24": "3000K",
+    "text25": "4000K"
+  },
+  {
+    "page": "107",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t  d e s   D é p l a c e m e n t s IP 67",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.III.4 IK 08",
+    "manu_name": "MEYER",
+    "title": " Projecteur  « ARCLUX »",
+    "description": {
+      "text1": "Projecteur LED d’illumination pour l’éclairage d’arcades et fenêtres."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance, d’illumination et de",
+      "text3": "mise en valeur patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en 3 gammes de couleur : noir, blanc et gris.",
+      "text3": "Optique 10°x180°",
+      "text4": "2LEDs-6.5W",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier en aluminium moulé sous pression résistant à la corrosion.",
+      "text3": "Pièces extérieures en acier inoxydable.",
+      "text4": "Verre de sécurité trempé à haute transmission"
+    },
+    "certifications": {
+      "text1": "IP 67",
+      "text2": "ULOR Ø",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text21": "B",
+    "text4": " CL I",
+    "text24": "3000K",
+    "text25": "2700K",
+    "text26": "4000K"
+  },
+  {
+    "page": "108",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.III.5 IK 08",
+    "manu_name": "MEYER",
+    "title": " Projecteur Gobo  « MONOSPOT GOBO »",
+    "description": {
+      "text1": "Projecteur LED d’illumination pour la projection d’images et de logos nets."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance, d’illumination et de",
+      "text3": "mise en valeur patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en noir, blanc et gris argenté.",
+      "text3": "Distribution lumineuse variable : distance focale de 63mm, 85mm et 150mm.",
+      "text4": "Température de couleur : 6500K."
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d’aluminium injecté sous pression, anti-corrosion.",
+      "text3": "Verre trempé et joints en silicone.",
+      "text4": "Fermeture par 3 vis en acier inoxydable."
+    },
+    "text18": "B",
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR Ø",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text4": " CL I"
+  },
+  {
+    "page": "109",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.III.6 IK 08",
+    "manu_name": "MEYER",
+    "title": " Projecteur Gobo  « NIGHTSPOT A GOBO »",
+    "description": {
+      "text1": "Projecteur LED d’illumination pour la projection d’images et de logos nets."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance, d’illumination et de",
+      "text3": "mise en valeur patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en noir, blanc et gris argenté.",
+      "text3": "Distribution lumineuse variable : distance focale de 63mm, 85mm et 150mm.",
+      "text4": "Température de couleur : 3000K, 4000K, 6000K et RGBW (6000K)."
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boîtier en aluminium extrudé et aluminium moulé sous pression résistant à la corrosion.",
+      "text3": "Verre de sécurité trempé."
+    },
+    "text17": "B",
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR Ø",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text4": " CL I"
+  },
+  {
+    "page": "11",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.1.11 IK 10",
+    "manu_name": "ZUMTOBEL",
+    "title": " Luminaire  « VOLUPTO »",
+    "description": {
+      "text1": "Luminaire à répartition lumineuse symétrique ou asymétrique équipé d’une",
+      "text2": "source LED à fixation supportée."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers.",
+      "text2": "Hauteur du point lumineux 4 à 5m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Version avec vasque claire U1 uniquement.",
+      "text3": "Plusieurs optiques disponibles.",
+      "text4": "Existe en version 12-18-24 Leds.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "24 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonderie d’aluminium et vasque claire en polycarbonate.",
+      "text3": "Configuration maximale admissible 24 LEDs 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text19": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text24": "*",
+    "text25": "3000K",
+    "text26": "2700K",
+    "text27": "2200K"
+  },
+  {
+    "page": "110",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s D é p l a c e m e n t s IP 65/7",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.III.7 IK 07/8",
+    "manu_name": "MEYER",
+    "title": " Projecteur  « SUPERLIGHT NANO »",
+    "description": {
+      "text1": "Projecteur LED d’illumination pour l’éclairage d’arcades et de bâtiments."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance, d’illumination et de mise",
+      "text3": "en valeur patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en 5 tailles  et 3 couleurs : noir, blanc et gris argenté.",
+      "text3": "Optiques faisceau étroit, moyen large, large, vertical et horizontal linéaire.",
+      "text4": "Equipé de 1LEDs-3W / 4LEDs x 1.5W / 9LEDs x 2.5W / 16 x 2.5W et 25LEDs x 2.3W",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier en aluminium moulé sous pression résistant à la corrosion.",
+      "text3": "Pièces extérieures en acier inoxydable. Verre trempé.",
+      "text4": "Luminaire A mm B mm C mm",
+      "text5": "Nano 1 (3W) 60 75 60",
+      "text6": "Nano 2 (7W) 76 85 76",
+      "text7": "Nano 3 (22W) 115 95 115",
+      "text8": "Nano 4 (39W) 140 115 140",
+      "text9": "Nano 5 (57W) 165 125 165"
+    },
+    "certifications": {
+      "text1": "IP 65/7",
+      "text2": "ULOR Ø",
+      "text3": "IK 07/8",
+      "text4": "CL I"
+    },
+    "text26": "B",
+    "text4": " CL I",
+    "text29": "3000K Couleur",
+    "text30": "4000K"
+  },
+  {
+    "page": "111",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t  d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.III.8 IK 07",
+    "manu_name": "WEEF",
+    "title": " Projecteur Gobo  « FCL230 GOBO »",
+    "description": {
+      "text1": "Projecteur LED d’illumination à découpe pour la projection de forme ronde",
+      "text2": "précise."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance, d’illumination et de",
+      "text3": "mise en valeur patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en 3 versions (optiques) : V1 lentilles standard (17°/28°),",
+      "text3": "V2 lentilles standard avec une double lentille convexe (19°/41°), V3 lentilles standard avec deux",
+      "text4": "doubles lentilles convexe (37°/51°).",
+      "text5": "Puissance 52W.",
+      "text6": "Température de couleur en 3000K et 4000K.",
+      "text7": "Disponible en 40 RAL différents.",
+      "text8": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d’aluminium. Verre de sécurité."
+    },
+    "text21": "B",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR Ø",
+      "text3": "IK 07",
+      "text4": "CL I"
+    },
+    "text4": " CL I",
+    "text26": "3000K",
+    "text27": "4000K"
+  },
+  {
+    "page": "13",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 67",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.2.1 IK 10",
+    "manu_name": "COMATELEC",
+    "title": " Borne et colonne  « BORA »",
+    "description": {
+      "text1": "Borne et colonne lumineuses équipées d’une source LED intégrée dans une",
+      "text2": "structure ajourée."
+    },
+    "terms_of_use": {
+      "text1": "Réservé au balisage des espaces piétonniers dans les espaces verts."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Version symétrique et asymétrique.",
+      "text3": "4 tailles : Micro, Mini, Midi et Maxi. De 8 à 33W.",
+      "text4": "Variation d’intensité lumineuse possible et modulable.",
+      "text5": "Couleur lumière blanche et bleue."
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Aluminium extrudé peint, vasque en méthacrylate stabilisé aux rayons UV,",
+      "text3": "résitant aux chocs.",
+      "text4": "Luminaire Hauteur Ø",
+      "text5": "Micro 0,25 m 160 mm",
+      "text6": "Mini 0,60 m 115 mm",
+      "text7": "Midi 1,10 m 115 mm",
+      "text8": "Maxi 3,00 m 115 mm"
+    },
+    "text22": "A",
+    "certifications": {
+      "text1": "IP 67",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text27": ""
+  },
+  {
+    "page": "14",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.2.2 IK 10+",
+    "manu_name": "ECLATEC",
+    "title": " Borne  « TEAM »",
+    "description": {
+      "text1": "Borne piétonne équipée d’une source LED."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers des espaces verts."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "8 LEDS",
+      "text3": "Optique ECL (éclairement circulaire large)",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "8 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Tube et chapeau en aluminium, vasque en polycarbonate IK10-60J",
+      "text3": "Configuration maximale admissible 8 LEDs 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text16": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10+",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text21": "*",
+    "text22": "3000K"
+  },
+  {
+    "page": "15",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.2.3 IK 10",
+    "manu_name": "COMATELEC",
+    "title": " Colonne  « PHYLOS »",
+    "description": {
+      "text1": "Colonne LED à répartition lumineuse symétrique ou asymétrique. Existe en",
+      "text2": "petite modèle suspendu."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces verts."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Version 30 LEDs.",
+      "text3": "Plusieurs optiques disponibles.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "24 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "2200K",
+        "text5": "Couleur"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonderie d’aluminium, vasque en méhtacrylate.",
+      "text3": "Dimensions : 4,20 m de hauteur, 172 mm de diamètre",
+      "text4": "Luminaire Aire lumineuse Hauteur",
+      "text5": "totale",
+      "text6": "Suspendu Ø180 x H 650 450 mm",
+      "text7": "Colonne Ø180 x H 1260 4200",
+      "text8": "Configuration maximale admissible 24 LEDs 700mA",
+      "text9": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text22": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text27": "*",
+    "text28": "3000K",
+    "text29": "2700K",
+    "text30": "2200K",
+    "text31": "Couleur"
+  },
+  {
+    "page": "16",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.2.4 IK 10",
+    "manu_name": "COMATELEC",
+    "title": " Colonne  « SHUFFLE »",
+    "description": {
+      "text1": "Colonne modulable intelligente permettant d’intégrer jusqu’à 5 modules par",
+      "text2": "colonne. Modules rotatifs sur 360°."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Large gamme de photométries.",
+      "text3": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "mfb": "L95 à 100000h.",
+      "text4": "Facteur de maintenance associé pour la source (Mfb) L95 à 100000h.",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K",
+        "text4": "Couleur"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier en aluminium, protecteur polycarbonate.",
+      "text3": "Dimensions : Diamètre A = 194 mm et Hauteur B = 815mm"
+    },
+    "text16": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text21": "*",
+    "text22": "3000K",
+    "text23": "2700K 2200K",
+    "text24": "Couleur"
+  },
+  {
+    "page": "17",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.2.5 IK 10",
+    "manu_name": "ECLATEC",
+    "title": " Colonne  « AMARANTE »",
+    "description": {
+      "text1": "Colonne LED à répartition lumineuse orientable +/- 40° équipée de 4 modules 6 leds."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces verts."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Jusqu’à 24 LEDs. 2 optiques possibles ECM ou ECL",
+      "text3": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "24 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "2200K",
+        "text5": "Couleur"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Mât cylindrique en aluminium, vasque claire en polycarbonate.",
+      "text3": "Configuration maximale admissible 24 LEDs 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text15": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text20": "*",
+    "text21": "3000K",
+    "text22": "2700K",
+    "text23": "2200K",
+    "text24": "Couleur"
+  },
+  {
+    "page": "18",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.2.6 IK 10",
+    "manu_name": "SELUX",
+    "title": " Colonne  «EXELIA 2 »",
+    "description": {
+      "text1": "Colonne à répartition lumineuse symétrique équipée d’une source LED."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "2 modules de 8 LEDS : 20W ou 30W",
+      "text3": "Excelia 2 : enveloppe 500mm",
+      "text4": "Excelia 2 -1000: enveloppe 1000mm",
+      "text5": "Excelia 2 - top: enveloppe 800mm",
+      "text6": "2 Photométries : Routière (R) ou symétrique (SM)",
+      "text7": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "mfb": "annoncée par le",
+      "text8": "Facteur de maintenance associé pour la source (Mfb) annoncée par le",
+      "text9": "fournisseur L70 à 100000h.",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Tête en fonderie d’aluminium, vasque en polycarbonate claire, corps en",
+      "text3": "aluminium ou acier, embase en fonderie d’aluminium.",
+      "text4": "Dimensions : Diamètre 200 mm et hauteur de la zone éclairée selon modèle"
+    },
+    "text21": "A",
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text26": "*",
+    "text27": "3000K",
+    "text28": "2700K 2200K"
+  },
+  {
+    "page": "2",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.1.2 IK 10",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « ALURA LED »",
+    "description": {
+      "text1": "Luminaire à répartition lumineuse symétrique ou asymétrique équipé",
+      "text2": "d’une source LED, à fixation supportée."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers.",
+      "text2": "Hauteur du point lumineux 4 à 5m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Répartition lumineuse symétrique ou asymétrique.",
+      "text3": "16 à 48 LEDS (Les versions en 700mA ne sont pas validées)",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "48 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Alliage d’aluminium injecté peint, vasque en polycarbonate (anti-UV)",
+      "text3": "Configuration maximale admissible 48 LEDs 500mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text5": "695",
+      "text6": "456"
+    },
+    "text20": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text25": "*",
+    "text26": "3000K",
+    "text27": "2700K 2200K"
+  },
+  {
+    "page": "20",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.I.3.1 IK 10",
+    "manu_name": "ETI",
+    "title": " Applique  « VENTEGO LED »",
+    "description": {
+      "text1": "Luminaire LED en applique à répartition lumineuse symétrique ou",
+      "text2": "asymétrique"
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des passages souterrains."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "1-10V, DALI",
+      "text3": "Puissances :",
+      "text4": "de 18,6W à 60W en 1-10V",
+      "text5": "de 11,2W à 51,3W en DALI",
+      "text6": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "mfb": "L80F50 à 50000h",
+      "text7": "Facteur de maintenance associé pour la source (Mfb) L80F50 à 50000h",
+      "text8": "annoncée par le fournisseur.",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier en aluminium extrudé, Vasque légèrement opalisée en",
+      "text3": "polycarbonate 4mm. Capots d’extrémités en aluminium coulé sous",
+      "text4": "pression. Fermeture par vis à tête sis pans creux.",
+      "text5": "Dimensions : deux longueurs 697 mm et 1307 m."
+    },
+    "text22": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text27": "*",
+    "text28": "3000K",
+    "text29": "4000K"
+  },
+  {
+    "page": "21",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 67",
+    "text2": "LEM-VP Laboratoire de l’espace public IK 10++",
+    "text3": "A.I.3.2 ULOR Ø",
+    "manu_name": "SECURLITE",
+    "title": " Applique   « TITAN »",
+    "description": {
+      "text1": "Linéaire en angle, en applique ou en plafonnier, équipé de source LED."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance et au balisage.",
+      "text2": "Pour passage souterrain et intérieur."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Longueur 720mm ou 1330mm.",
+      "text3": "Exite en 3000K et 4000K.",
+      "text4": "De 2 à 8 modules LED (71W/6930lm maximum)",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Base et cadre acier.",
+      "text3": "Diffuseur polycarbonate opalescent, fermeture par vis inox M6",
+      "text4": "antivandales 2 points."
+    },
+    "certifications": {
+      "text1": "IP 67",
+      "text2": "IK 10++",
+      "text3": "ULOR Ø",
+      "text4": "CL I"
+    },
+    "text20": "A",
+    "text4": " CL I",
+    "text23": "et II",
+    "text24": "*",
+    "text25": "3000K",
+    "text26": "2700K"
+  },
+  {
+    "page": "22",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.I.3.3 IK 08",
+    "manu_name": "BEGA",
+    "title": " Encastré   « 33053-33054-33055»",
+    "description": {
+      "text1": "Anciennes références 2382-2384",
+      "text2": "Luminaire mural –éclairage à diffusion libre équipée d’une source",
+      "text3": "LED"
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers, balisage.",
+      "text2": "Flux lumineux > à 100lm : produit uniquement avec temporalité."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "33053 puissance siyrce : 5,1 W",
+      "text3": "33054 puissance source : 7 W",
+      "text4": "33055 puissance source : 9 W",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "mfb": "L80B50 à 50000h",
+      "text6": "Facteur de maintenance associé pour la source (Mfb) L80B50 à 50000h",
+      "text7": "annoncée par le fournisseur",
+      "temperature": {
+        "text1": "3000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Fonte d’aluminium et acier inoxydable, verre de sécurité clair.",
+      "text3": "Luminaire A B C",
+      "text4": "33053 170 mm 70 mm 65 mm",
+      "text5": "33054 260 mm 70 mm 65 mm",
+      "text6": "33055 320 mm 70 mm 65 mm"
+    },
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR Ø",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text26": "3000K",
+    "text4": " CL I",
+    "text29": "et II",
+    "text30": "A"
+  },
+  {
+    "page": "23",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 67",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.I.3.4 IK 10",
+    "manu_name": "BEGA",
+    "title": " Encastré   « Famille 99327 »",
+    "description": {
+      "text1": "Ancienne référence 8825",
+      "text2": "Luminaire encastré dans le sol, autorisant le roulement, équipé d’une",
+      "text3": "source LED."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers, balisage.",
+      "text2": "Flux lumineux < à 100lm : version conforme à l’arrêté : 99327-99328-99331-99356.",
+      "text3": "Flux lumineux > à 100lm : version utilisable avec temporalité : 99366-99396."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Différentes références proposées selon la source et la photométrie souhaitée.",
+      "text3": "- Projecteur à photométrie symétrique – verre clair (99356-99366-99396)",
+      "text4": "- Luminaire d’orientation – verre mat (99327-99328-99331)",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "mfb": "L90B50 à 100000h",
+      "text6": "Facteur de maintenance associé pour la source (Mfb) L90B50 à 100000h",
+      "text7": "annoncée par le fournisseur",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Acier inoxydable, réflecteur en aluminium pur anodisé et vasque en verre",
+      "text3": "de sécurité.",
+      "text4": "Luminaire A B C",
+      "text5": "99327/99356 37 mm 65 mm 30 mm",
+      "text6": "99366/99328 51 mm 80 mm 45 mm",
+      "text7": "99396/99331 75 mm 75 mm 70 mm"
+    },
+    "certifications": {
+      "text1": "IP 67",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL III"
+    },
+    "text28": "3000K",
+    "text29": "2700K",
+    "text30": "A",
+    "text31": "Couleur",
+    "text4": " CL III"
+  },
+  {
+    "page": "24",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IK 10++",
+    "text2": "LEM-VP Laboratoire de l’espace public CL III",
+    "text3": "A.I.3.5 IP 68",
+    "manu_name": "LEC",
+    "title": " Encastré   « BORDEAUX 1530 »",
+    "description": {
+      "text1": "Version mini de la gamme des encastrés LED ronds arrasants."
+    },
+    "terms_of_use": {
+      "text1": "Réservé au balisage et à la mise en valeur.",
+      "text2": "Flux lumineux < à 100lm : version conforme à l’arrêté",
+      "text3": "Flux lumineux > à 100lm : version utilisable avec temporalité"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "1 LED de puissance.",
+      "text3": "Plusieurs optiques disponibles.",
+      "text4": "Appareillage déporté ou intégré.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "Couleur",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "Couleur",
+        "text5": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Fenêtre plane dépolie polycarbonate anti-UV et anti-rayure, aluminium",
+      "text3": "anodié satiné et inox."
+    },
+    "certifications": {
+      "text1": "IK 10++",
+      "text2": "CL III",
+      "text3": "IP 68",
+      "text4": "ULOR Ø"
+    },
+    "text20": "Couleur",
+    "text21": "A",
+    "text22": "3000K",
+    "text23": "2700K",
+    "text24": "Couleur",
+    "text25": "4000K",
+    "text4": " ULOR Ø"
+  },
+  {
+    "page": "25",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IK 10+",
+    "text2": "LEM-V P  Laboratoire de l’espace public CL III",
+    "text3": "A.I.3.6 IP 68",
+    "manu_name": "LEC",
+    "title": " Encastré   « BOURGOGNE 1750 »",
+    "description": {
+      "text1": "Encastré équipé d’une source LED et supportant le roulage occasionnel",
+      "text2": "de tous types de véhicules."
+    },
+    "terms_of_use": {
+      "text1": "Réservé au balisage et à la mise en valeur.",
+      "text2": "Flux lumineux < à 100lm : version conforme à l’arrêté",
+      "text3": "Flux lumineux > à 100lm : version utilisable avec temporalité"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "1 LED de puissance ou 3 LEDs CMS.",
+      "text3": "Plusieurs optiques disponibles.",
+      "text4": "3 dimensions de ports d’encastrement possibles",
+      "text5": "Appareillage déporté ou intégré.",
+      "text6": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "Couleur",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "Couleur",
+        "text5": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Fenêtre plane dépolie polycarbonate anti-UV et anti-rayure, aluminium",
+      "text3": "anodisé satiné et Inox."
+    },
+    "certifications": {
+      "text1": "IK 10+",
+      "text2": "CL III",
+      "text3": "IP 68",
+      "text4": "ULOR Ø"
+    },
+    "text22": "Couleur",
+    "text23": "A",
+    "text24": "3000K",
+    "text25": "2700K",
+    "text26": "Couleur",
+    "text27": "4000K",
+    "text4": " ULOR Ø"
+  },
+  {
+    "page": "26",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IK 10+",
+    "text2": "LEM-VP Laboratoire de l’espace public CL III",
+    "text3": "A.I.3.7 IP 68",
+    "manu_name": "LEC",
+    "title": " Encastré   « CHATEAUNEUF 1570 »",
+    "description": {
+      "text1": "Version médiane de la gamme des encasrtés à LED ronds arrasants."
+    },
+    "terms_of_use": {
+      "text1": "Réservé au balisage et à la mise en valeur.",
+      "text2": "Flux lumineux > à 100lm : produit uniquement avec temporalité"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "4 LEDs de puissance.",
+      "text3": "Plusieurs optiques disponibles.",
+      "text4": "Appareillage déporté.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Fenêtre plane polycarbonate anti-UV et anti-rayure, aluminium anodisé",
+      "text3": "satiné et inox."
+    },
+    "certifications": {
+      "text1": "IK 10+",
+      "text2": "CL III",
+      "text3": "IP 68",
+      "text4": "ULOR Ø"
+    },
+    "text19": "A",
+    "text4": " ULOR Ø",
+    "text22": "3000K",
+    "text23": "2700K",
+    "text24": "Couleur",
+    "text25": "4000K"
+  },
+  {
+    "page": "27",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IK 10+",
+    "text2": "LEM-VP Laboratoire de l’espace public CL III",
+    "text3": "A.I.3.8 IP 68",
+    "manu_name": "LEC",
+    "title": " Encastré   « LUCERNE 1830 »",
+    "description": {
+      "text1": "Encastré équipé d’une source LED, supporte le roulage occasionnel de",
+      "text2": "tout type de véhicule."
+    },
+    "terms_of_use": {
+      "text1": "Réservé au balisage et à la mise en valeur.",
+      "text2": "Flux lumineux < à 100lm : version conforme à l’arrêté",
+      "text3": "Flux lumineux > à 100lm : version utilisable avec temporalité"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "4 LEDs de puissance ou 12/36 LEDs CMS.",
+      "text3": "Plusieurs optiques disponibles.",
+      "text4": "Appareillage déporté.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Fenêtre plane polycarbonate anti-UV et anti-rayure, aluminium anodisé",
+      "text3": "satiné et inox."
+    },
+    "certifications": {
+      "text1": "IK 10+",
+      "text2": "CL III",
+      "text3": "IP 68",
+      "text4": "ULOR Ø"
+    },
+    "text21": "A",
+    "text23": "3000K",
+    "text24": "2700K",
+    "text25": "Couleur",
+    "text26": "4000K",
+    "text4": " ULOR Ø"
+  },
+  {
+    "page": "28",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IK 10",
+    "text2": "LEM-V P  Laboratoire de l’espace public CL III",
+    "text3": "A.I.3.9 IP 68",
+    "manu_name": "LEC",
+    "title": " Encastré   « MATOSINHOS 0320 »",
+    "description": {
+      "text1": "Petit œil lumineux à LED pour application décorative ou sécuritaire , en",
+      "text2": "encastré."
+    },
+    "terms_of_use": {
+      "text1": "Réservé au balisage.",
+      "text2": "Flux lumineux < à 100lm : version conforme à l’arrêté."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "1 LED de 5mm à angle large.",
+      "text3": "Appareillage déporté.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en verre organique antivandalisme. Fenêtre polycarbonate anti-",
+      "text3": "UV."
+    },
+    "certifications": {
+      "text1": "IK 10",
+      "text2": "CL III",
+      "text3": "IP 68",
+      "text4": "ULOR Ø"
+    },
+    "text19": "3000K Couleur",
+    "text20": "4000K",
+    "text21": "A",
+    "text4": " ULOR Ø"
+  },
+  {
+    "page": "29",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.I.3.10 IK 10",
+    "manu_name": "LEDPUCK",
+    "title": " Encastré  « APERTURE »",
+    "description": {
+      "text1": "Luminaire en applique ou encastré de type cylindrique pour",
+      "text2": "intégration dans un garde-corps équipé d’une source LED. La version",
+      "text3": "APERTURE est une version spéciale du LED PUCK ayant fait l’objet",
+      "text4": "d’un usinage spécifique de son optique, afin de proposer une",
+      "text5": "photométrie asymétrie intensive."
+    },
+    "terms_of_use": {
+      "text1": "Réservé au balisage et à la mise en lumière."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "LED : 1 LED d’1,4W, appareillage déporté.",
+      "text3": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "4000K",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "Couleur",
+        "text5": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps du luminaire en inox 316L."
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL III"
+    },
+    "text4": " CL III",
+    "text21": "B",
+    "text22": "4000K",
+    "text23": "3000K",
+    "text24": "2700K",
+    "text25": "Couleur",
+    "text26": "4000K"
+  },
+  {
+    "page": "3",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.1.3 IK 10",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « HAPILED LF »",
+    "description": {
+      "text1": "Luminaire à répartition lumineuse symétrique ou asymétrique",
+      "text2": "équipé d’une source LED à fixation supportée ou sur console.",
+      "text3": "Version LF-Loi Française conforme à l’arrêté sur les nuisances lumineuses."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers.",
+      "text2": "Hauteur du point lumineux 4 à 5m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Répartition lumineuse symétrique ou asymétrique.",
+      "text3": "Existe en version 16-24-32-48 Leds.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "text5": "⚫",
+      "cma": "48 LEDs 600mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Alliage d’aluminium injecté peint, vasque en polycarbonate (anti-UV)",
+      "text3": "Configuration maximale admissible 48 LEDs 600mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text5": "Dimensions",
+      "text6": "W 410 mm",
+      "text7": "H1 556 mm",
+      "text8": "H2 377 mm",
+      "text9": "H3 113 mm",
+      "text10": "Ø 60 mm"
+    },
+    "text26": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text31": "*",
+    "text32": "3000K",
+    "text33": "2700K 2200K"
+  },
+  {
+    "page": "30",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IK 10",
+    "text2": "LEM-VP Laboratoire de l’espace public CL III",
+    "text3": "A.I.3.11 IP 65",
+    "manu_name": "LEDPUCK",
+    "title": " Encastré   « SNAP »",
+    "description": {
+      "text1": "Luminaire encastré de type cylindrique pour intégration dans un garde-",
+      "text2": "corps équipé d’une source LED."
+    },
+    "terms_of_use": {
+      "text1": "Réservé au balisage."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "LED : 1 LED d’1,6W, d’angle d’ouverture 55° X 70° ou asymétrique",
+      "text3": "Appareil déporté.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en aluminium, lentille en polycarbonate.",
+      "text3": "Version IP67 : corps en inox, lentille en borosilicate."
+    },
+    "certifications": {
+      "text1": "IK 10",
+      "text2": "CL III",
+      "text3": "IP 65",
+      "text4": "ULOR <1%"
+    },
+    "text4": " ULOR <1%",
+    "text20": "A",
+    "text21": "3000K",
+    "text22": "2700K",
+    "text23": "Couleur",
+    "text24": "4000K"
+  },
+  {
+    "page": "31",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IK 10",
+    "text2": "LEM-VP Laboratoire de l’espace public CL II",
+    "text3": "A.I.3.12 IP 67",
+    "manu_name": "IGUZZINI",
+    "title": " Linéaire   « LINEALUCE  »",
+    "description": {
+      "text1": "Appareil en applique ou encastré au sol, au mur et au plafond, utilisant",
+      "text2": "des sources lumineuses à LED."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance et au balisage.",
+      "text2": "Flux lumineux > à 100lm : version utilisable avec temporalité."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Différentes versions existent à des puissances et des dimensions",
+      "text3": "variées.",
+      "text4": "Plusieurs photométries disponibles.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en aluminium extrudé et groupe optique fermé dans sa partie",
+      "text3": "supérieure par un verre trempé transparent de 8mm d’épaisseur fixé",
+      "text4": "au silicone. Double presse-étoupe en laiton nickelé pour le câblage",
+      "text5": "traversant.",
+      "text6": "Luminaire A B C",
+      "text7": "Longueur 1 610 mm 87 mm 104 mm",
+      "text8": "Longueur 2 907 mm 87 mm 104 mm",
+      "text9": "Longueur 3 1204 mm 87 mm 104 mm",
+      "text10": "Longueur 4 1501 mm 87 mm 104 mm"
+    },
+    "text25": "A",
+    "text26": "A",
+    "certifications": {
+      "text1": "IK 10",
+      "text2": "CL II",
+      "text3": "IP 67",
+      "text4": "ULOR Ø"
+    },
+    "text29": "3000K",
+    "text30": "2700K",
+    "text31": "Couleur",
+    "text32": "4000K",
+    "text4": " ULOR Ø",
+    "text35": "B",
+    "text36": "C"
+  },
+  {
+    "page": "32",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IK 10",
+    "text2": "LEM-VP Laboratoire de l’espace public CL III",
+    "text3": "A.I.3.13 IP 67",
+    "manu_name": "BELVAL",
+    "title": " Linéaire   « 5630  »",
+    "description": {
+      "text1": "Projecteur de main courante avec encastrement sans vis apparente."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance et au balisage.",
+      "text2": "Flux lumineux > à 100lm : produit uniquement avec temporalité."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Large choix d’optiques.",
+      "text3": "Appareillage déporté.",
+      "text4": "5633 Arches 3 : version orientable.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en aluminium usiné anodisé incolore. Fenêtre polycarbonate",
+      "text3": "antivandalisme, anti-rayures, anti-UV."
+    },
+    "text17": "A",
+    "certifications": {
+      "text1": "IK 10",
+      "text2": "CL III",
+      "text3": "IP 67",
+      "text4": "ULOR Ø"
+    },
+    "text20": "3000K",
+    "text21": "2700K",
+    "text22": "Couleur",
+    "text23": "4000K",
+    "text4": " ULOR Ø"
+  },
+  {
+    "page": "33",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IK 10++",
+    "text2": "LEM-VP Laboratoire de l’espace public CL III",
+    "text3": "A.I.3.14 IP 68",
+    "manu_name": "BRUNEI",
+    "title": " Linéaire   « 5620  »",
+    "description": {
+      "text1": "Barreau lumineux à LED à encastrer qui supporte le roulage occasionnel",
+      "text2": "de tous les véhicules."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance et au balisage.",
+      "text2": "Flux lumineux > à 100lm : produit uniquement avec temporalité."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "120 Leds CMS au mètre.",
+      "text3": "Commandable à la longueur voulue entre 150mm et 2m",
+      "text4": "Large choix d’optiques.",
+      "text5": "Appareillage déporté.",
+      "text6": "2 profilés de pose : version encastrement dans le sol, version applique",
+      "text7": "compacte.",
+      "text8": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Fenêre plane en verre organique anti-UV et antio-rayures, aluminium",
+      "text3": "anodisé satiné."
+    },
+    "text21": "A",
+    "certifications": {
+      "text1": "IK 10++",
+      "text2": "CL III",
+      "text3": "IP 68",
+      "text4": "ULOR Ø"
+    },
+    "text24": "3000K",
+    "text25": "2700K",
+    "text26": "Couleur",
+    "text27": "4000K",
+    "text4": " ULOR Ø"
+  },
+  {
+    "page": "34",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IK 08",
+    "text2": "LEM-VP Laboratoire de l’espace public CL III",
+    "text3": "A.I.3.15 IP 65",
+    "manu_name": "LMT",
+    "title": " Linéaire   « FLATBEAM  »",
+    "description": {
+      "text1": "Luminaire linéaire LED pour écliarage indirect suspendu sous plafond,",
+      "text2": "ponts et similaires."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage de passages souterrains."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Source LED 2700K-55W",
+      "text3": "Optique 2x80°",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "*",
+        "text2": "2700K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en aluminium, vasque en polycarbonate."
+    },
+    "text15": "A",
+    "certifications": {
+      "text1": "IK 08",
+      "text2": "CL III",
+      "text3": "IP 65",
+      "text4": "ULOR Ø"
+    },
+    "text18": "*",
+    "text19": "2700K",
+    "text4": " ULOR Ø"
+  },
+  {
+    "page": "35",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.I.3.16 IK 07",
+    "title": " Lumenfaçade",
+    "description": {
+      "text1": "Lumenfaçade horizontal",
+      "text2": "Lumenfaçade remote",
+      "text3": "Lumenfaçade Stand Alone",
+      "text4": "Linéaire LUMENPULSE « LUMENFACADE  »",
+      "text5": "Luminaire linéaire à LED pour l’éclairage rasant ou de projection de façades",
+      "text6": "ou murs extérieurs, version Lumenfaçade et Lumenfaçade nano."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’illumination"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Différentes configurations d’intégration possibles : normal, horizontal,",
+      "text3": "remote et stand alone.",
+      "text4": "Longueurs possibles : 305mm, 610mm, 914mm ou 1219mm.",
+      "text5": "Large choix d’optiques.",
+      "text6": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier en aluminium extrudé, lentille en verre trempé clair."
+    },
+    "text21": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR Ø",
+      "text3": "IK 07",
+      "text4": "CL II"
+    },
+    "text24": "3000K",
+    "text25": "2700K",
+    "text26": "Couleur",
+    "text27": "4000K",
+    "text28": "Lumenfaçade",
+    "text29": "Lumenfaçade Nano",
+    "text4": " CL II"
+  },
+  {
+    "page": "36",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 68",
+    "text2": "LEM-VP Laboratoire de l’espace public IK 08",
+    "text3": "A.I.3.17 ULOR Ø",
+    "manu_name": "LUMTEAM",
+    "title": " Linéaire  « FLEX LINE  »",
+    "description": {
+      "text1": "Linéaire flexible à LED 24VDC."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’illumination"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Trois tailles : Flex line, Flex line 90 et Flex Line mini.",
+      "text3": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Réservation en aluminium anodisé",
+      "text3": "Version Nombre LED Consommation Optique",
+      "text4": "FLEX LINE",
+      "text5": "72LED 12W 120°",
+      "text6": "FLEX LINE_90 108LED 12W 120°",
+      "text7": "FLEX LINE_MINI 72LED 5W 110°",
+      "text8": "Version A mini A maxi B C",
+      "text9": "FLEX LINE",
+      "text10": "83,3mm 10000mm 23mm 11mm",
+      "text11": "FLEX LINE_90 55,6mm 10000mm 16mm 17mm",
+      "text12": "FLEX LINE_MINI 83,3mm 10000mm 18mm 9mm"
+    },
+    "certifications": {
+      "text1": "IP 68",
+      "text2": "IK 08",
+      "text3": "ULOR Ø",
+      "text4": "CL III"
+    },
+    "text24": "A",
+    "text26": "3000K",
+    "text27": "2700K",
+    "text28": "Couleur",
+    "text29": "4000K 2200K",
+    "text4": " CL III"
+  },
+  {
+    "page": "37",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IK 10",
+    "text2": "LEM-VP Laboratoire de l’espace public CL III",
+    "text3": "A.I.3.18 IP 68",
+    "manu_name": "OPTYLED",
+    "title": " Linéaire  « Opty-Rail-OM »",
+    "description": {
+      "text1": "Plafonnier linéaire à LED avec driver déporté pour réalisation de",
+      "text2": "ligne lumineuse."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance, balisage."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Puissance maximale 39W/m.",
+      "text3": "Alimentation 24V, variation DMW, DALI, 1-10V",
+      "text4": "Vasque claire, givrée ou opale, carrée ou ronde.",
+      "text5": "Optique 120° ou 180°.",
+      "text6": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "text7": "Maintien de flux annoncé par le fournisseur L70B50 à 60000h.",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Rail en aluminium anodisé.",
+      "text3": "Vasque polycarbonate.",
+      "text4": "Longueur maximale 3m."
+    },
+    "text20": "A",
+    "certifications": {
+      "text1": "IK 10",
+      "text2": "CL III",
+      "text3": "IP 68",
+      "text4": "ULOR Ø"
+    },
+    "text4": " ULOR Ø",
+    "text25": "3000K",
+    "text26": "2700K",
+    "text27": "Couleur",
+    "text28": "4000K"
+  },
+  {
+    "page": "38",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IK 10",
+    "text2": "LEM-VP Laboratoire de l’espace public CL I",
+    "text3": "A.I.3.19 IP 67",
+    "manu_name": "WIBRE",
+    "title": " Linéaire   « 4.",
+    "description": {
+      "text1": "Encastré de sol avec éclairage diffus, symétrique ou asymétrique équipé",
+      "text2": "d’une source LED."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers et au balisage.",
+      "text2": "Flux lumineux > à 100lm : version utilisable avec temporalité"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Collerette ras de sol ou collerette rectangulaire.",
+      "text3": "Nombre de Leds selon longueur 6/18/27/36 LEDs.",
+      "text4": "Longueurs possibles : 225mm/245mm, 605mm/625mm,",
+      "text5": "905mm/925mm, 1205mm/1225mm.",
+      "text6": "Plusieurs photométries disponibles.",
+      "text7": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Collerette de recouvrement en acier inoxydable, boitier en acier et boitier",
+      "text3": "d’encastrement en inox, verre de sécuirité clair."
+    },
+    "certifications": {
+      "text1": "IK 10",
+      "text2": "CL I",
+      "text3": "IP 67",
+      "text4": "ULOR Ø"
+    },
+    "text22": "A",
+    "text23": "3000K Couleur",
+    "text24": "4000K",
+    "text4": " ULOR Ø"
+  },
+  {
+    "page": "39",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.I.3.20 IK 07",
+    "manu_name": "ZUMTOBEL",
+    "title": " Linéaire  « Trinos »",
+    "description": {
+      "text1": "Luminaire à LED pour chemin lumineux installé dans un rail porteur."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage piétonnier sous auvent."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Distribution lumineuse moyennement extensive.",
+      "text3": "64 LED par segment.",
+      "text4": "Installation mécanique et électrique sans outil dans le rail porteur.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "text6": "Maintien de flux annoncé par le fournisseur L95 à 100000h.",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Rail porteur en aluminium thermolaqué.",
+      "text3": "Profilé d’étanchéité en élastomères thermoplatiques.",
+      "text4": "Optique sans fin à dérouler, PMMA résistant aux substances chimiques",
+      "text5": "et aux chocs, couche intérieure en polycarbonate."
+    },
+    "text19": "A",
+    "text20": "3000K",
+    "text21": "4000K",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR Ø",
+      "text3": "IK 07",
+      "text4": "CL II"
+    },
+    "text4": " CL II"
+  },
+  {
+    "page": "4",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.1.4 IK 10+",
+    "manu_name": "ECLATEC",
+    "title": " Luminaire  « BUZZ ZENIUM »",
+    "description": {
+      "text1": "Luminaire à répartition lumineuse symétrique ou asymétrique équipé d’une",
+      "text2": "source LED à fixation supportée ou sur console. Version ZENIUM conforme à",
+      "text3": "l’arrêté sur les nuisances lumineuses."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers.",
+      "text2": "Hauteur du point lumineux 4 à 5m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Répartition lumineuse symétrique (ECL) ou asymétrique (ERL, ERS, LRM).",
+      "text3": "Option : obturateur oupe-flux arrière.",
+      "text4": "Existe en version 12-20-26 Leds.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "text6": "⚫",
+      "cma": "26 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Socle et capot en fonderie d’aluminium injecté et vasque en polycarbonate",
+      "text3": "clair.",
+      "text4": "Configuration maximale admissible 26 LEDs 700mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text22": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10+",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text27": "*",
+    "text28": "3000K"
+  },
+  {
+    "page": "41",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.II.1.1 IK 10",
+    "manu_name": "ECLATEC",
+    "title": " Luminaire  « ZELDA »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale, équipé d’une",
+      "text2": "source LED."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel et routier.",
+      "text2": "Inclinaison réglable."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Existe en trois tailles (1, 2 et3)",
+      "text3": "Finition X - ouverture sans outils.",
+      "text4": "Gamme de photométries : sym, asym, piéton, et projection.",
+      "text5": "Option : coupe flux arrière.",
+      "text6": "Sources LED : Barrettes BLS de 8 à 120 LEDs.",
+      "text7": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "text8": "A",
+      "text9": ".",
+      "cma": "120 LEDs 600mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps, capot, manchon en fonderie d’aluminium injecté. Vasque en verre",
+      "text3": "trempé.",
+      "text4": "Configuration maximale admissible 120 LEDs 600mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text24": "A",
+    "text25": "(mm)",
+    "text26": "B",
+    "text27": "(mm)",
+    "text28": "C",
+    "text29": "(mm)",
+    "text30": "ZELDA 1 637",
+    "text31": "360 126",
+    "text32": "ZELDA 2 718",
+    "text33": "430 126",
+    "text34": "ZELDA 3 802",
+    "text35": "470 126",
+    "text36": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text38": "A",
+    "text40": "B",
+    "text41": "C",
+    "text4": " CL II",
+    "text44": "*",
+    "text45": "3000K",
+    "text46": "2700K 2200K"
+  },
+  {
+    "page": "43",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.II.2.1 IK 10",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « CITEA NG »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale ou sommitale,",
+      "text2": "équipé d’une source LED. Il se décline en deux tailles et différentes",
+      "text3": "répartitions lumineuses (symétrique, asymétrique, ...)."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel et routier.",
+      "text2": "Inclinaison réglable sur fixation latérale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "CITEA NG MINI :  de 16 à 48 LEDs par paliers de 8 (jusqu’à 75W).",
+      "text3": "CITEA NG (MIDI) :  de 16 à 96 LEDs par paliers de 8 (jusqu’à 150W).",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "96 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Dôme en aluminium repoussé, couronne et lunette en fonte d’aluminium",
+      "text3": "Configuration maximale admissible 96 LEDs 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text5": "Mini Midi",
+      "text6": "Ø (mm) 500 595",
+      "text7": "H (mm) 160 185"
+    },
+    "text22": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text27": "*",
+    "text28": "3000K",
+    "text29": "2700K 2200K"
+  },
+  {
+    "page": "44",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.II.2.2 IK 08",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « SCALA LED »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale, équipé d’une",
+      "text2": "source LED. Il se décline en 3 tailles et différentes répartitions lumineuses."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel et routier.",
+      "text2": "Modèle de support associé : LUTECIA",
+      "text3": "Hauteur du point lumineux de 7 à 11m (chaussée) et 5m (trottoir)."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Trois tailles :",
+      "text3": "- Mini : jusqu’à 48 LED",
+      "text4": "- Midi : jusqu’à 48 LED",
+      "text5": "- Maxi : jusqu’à 64 LED",
+      "text6": "Différentes photométries possibles.",
+      "text7": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "64 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Couronne  et lunette en aluminium coulé, réflecteur en aluminium",
+      "text3": "embouti, brillanté et anodisé, vasque en verre plan.",
+      "text4": "Luminaire Ø mm Hauteur mm",
+      "text5": "SCALA MAXI 675 230",
+      "text6": "SCALA MIDI 590 190",
+      "text7": "SCALA MINI 490 167",
+      "text8": "Configuration maximale admissible 64 LEDs 700mA",
+      "text9": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text27": "A",
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text32": "*",
+    "text33": "3000K",
+    "text34": "2700K 2200K"
+  },
+  {
+    "page": "45",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.II.2.3 IK 08",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « YOA »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale, équipé d’une",
+      "text2": "source LED, il se décline en deux tailles Mini et Maxi."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel et routier."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Version Midi : de 16 à 48 LEDs.",
+      "text3": "Version Maxi : de 64 à 96 LEDs.",
+      "text4": "Nombreuses photométries possibles.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "96 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Capot et corps en aluminium injecté. Protecteur en verre trempé plat",
+      "text3": "autonettoyant.",
+      "text4": "Option protecteur polycarbonate IK10.",
+      "text5": "Configuration maximale admissible 96 LEDs 500mA",
+      "text6": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text20": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text25": "*",
+    "text26": "3000K",
+    "text27": "2700K 2200K"
+  },
+  {
+    "page": "46",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace p u b l ic ULOR <1%",
+    "text3": "A.II.2.4 IK 08",
+    "manu_name": "ECLATEC",
+    "title": " Luminaire  « CHORUS X »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale ou sommitale,",
+      "text2": "équipé d’une source LED, il se décline en différentes répartitions",
+      "text3": "lumineuses (symétrique, asymétrique, ...)"
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel et routier.",
+      "text2": "Inclinaison réglable."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources LED (de 12 à 72 LEDs par paliers de 12) jusqu’à 143W",
+      "text3": "2 tailles Chorus 55 X et Chorus 45 X.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "72 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Dôme en aluminium repoussé, couronne et lunette en fonte d’aluminium.",
+      "text3": "Configuration maximale admissible 72 LEDs 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text19": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text24": "*",
+    "text25": "3000K",
+    "text26": "2700K",
+    "text27": "2200K"
+  },
+  {
+    "page": "47",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.II.2.5 IK 10",
+    "manu_name": "SELUX",
+    "title": " Luminaire  « AVANZA »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale, équipé d’une",
+      "text2": "source LED. Il se décline en différentes répartitions lumineuse et différentes",
+      "text3": "tailles"
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel et routier.",
+      "text2": "Fixation sur console standard Ø60mm emmanchement 100mm."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources LED ( 48 ou 96 LEDS) jusqu’à 91W.",
+      "text3": "2 tailles : Avanza 600 et Avanza 450.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "80 LEDs 700mA",
+      "mfb": "0,90",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps et châssis en fonderie d’aluminium, verre plat épaisseur 4mm.",
+      "text3": "Réflecteur en polycarbonate injecté métallisé sous vide.",
+      "text4": "Configuration maximale admissible 80 LEDs 700mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,90"
+    },
+    "text20": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text25": "3000K",
+    "text26": "2700K",
+    "text27": "2200K"
+  },
+  {
+    "page": "48",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.II.2.6 IK 09",
+    "manu_name": "SELUX",
+    "title": " Luminaire  « DISCERA LED »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale ou sommitale,",
+      "text2": "équipé d’une source LED. Il se décline en différentes répartitions",
+      "text3": "lumineuses et deux tailles tailles 400 et 600."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel et routier."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Discera 400 : 16-24-32 LEDS, Discera 600 : 32-48-64 LEDS.",
+      "text3": "Différentes photométries : asymétrique ou routière.",
+      "text4": "Accessoires coupe-flux disponibles.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "64 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonderie d’aluminium, fermeture plane en verre trempé clair.",
+      "text3": "Configuration maximale admissible 64 LEDs 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text5": "Luminaire Ø",
+      "text6": "mm",
+      "text7": "Hauteur",
+      "text8": "mm",
+      "text9": "Discera 400 400 106",
+      "text10": "Discera 600 600 146"
+    },
+    "text25": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 09",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text30": "*",
+    "text31": "3000K",
+    "text32": "2700K 2200K",
+    "text33": ""
+  },
+  {
+    "page": "49",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.II.2.7 IK 08",
+    "manu_name": "SIGNIFY",
+    "title": " Luminaire  « CITYSOUL GEN2 »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale ou sommitale,",
+      "text2": "équipé d’une source LED, il se décline en 2 tailles et différentes répartitions",
+      "text3": "lumineuses."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel et routier."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "2 tailles Large et Mini",
+      "text3": "Mini - jusqu’à 40 LEDs, 77 W, 8700lm (3000K)",
+      "text4": "Large - jusqu’à 80 LEDs, 152W,  17000lm (3000K)",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "80 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d'aluminium haute pression. Fermeture verre trempé.",
+      "text3": "Configuration maximale admissible 80 LEDs 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text19": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text24": "*",
+    "text25": "3000K",
+    "text26": "2700K",
+    "text27": "2200K"
+  },
+  {
+    "page": "5",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <3%",
+    "text3": "A.I.1.5 IK 10++",
+    "manu_name": "ECLATEC",
+    "title": " Luminaire  « ELYXE »",
+    "description": {
+      "text1": "Luminaire tête de mât équipé d’une source LED en version portée ou",
+      "text2": "suspendue."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers.",
+      "text2": "Hauteur du point lumineux 4 à 5m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Répartition lumineuse symétrique (ECL) ou asymétrique (ERL, ERS, LRM).",
+      "text3": "Existe en version 12-20-26 Leds.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "26 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Fonderie d’aluminium injecté, bras en aluminium extrudé,",
+      "text3": "réflecteur en aluminium brillanté anodisé",
+      "text4": "Configuration maximale admissible 26 LEDs 700mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text19": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <3%",
+      "text3": "IK 10++",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text24": "*",
+    "text25": "3000K",
+    "text26": "2700K 2200K"
+  },
+  {
+    "page": "50",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.II.2.8 IK 09",
+    "manu_name": "SIGNIFY",
+    "title": " Luminaire  « TOWNTUNE »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale ou",
+      "text2": "sommitale, équipé d’une source LED, il se décline en différentes",
+      "text3": "répartitions lumineuses."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel et routier."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "De 6 à 40 LEDS.",
+      "text3": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "80 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en aluminium moulé sous pression. Fermeture en vasque",
+      "text3": "polycarbonate avec protection anti-UV.",
+      "text4": "Configuration maximale admissible 80 LEDs 700mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text18": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 09",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text23": "*",
+    "text24": "3000K",
+    "text25": "2700K",
+    "text26": "2200K"
+  },
+  {
+    "page": "51",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.II.2.9 IK 10",
+    "manu_name": "THORN",
+    "title": " Luminaire  « DYANA »",
+    "description": {
+      "text1": "Luminaire  à répartition lumineuse asymétrique équipé d’une source",
+      "text2": "LED à fixation latérale ou top. Il se décline en deux tailles : Dyana 1 et",
+      "text3": "Dyana 2."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des voies petites à moyennes."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Plusieurs puissances disponibles dimmables.",
+      "text3": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "36 LEDs 1000mA 72 LEDS 700mA",
+      "mfb": "",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Fonte d’aluminium, aluminium  repoussé, Verre plat  trempé de 5mm",
+      "text3": "d’épaisseur.",
+      "text4": "DYANA 1 DYANA 2",
+      "text5": "Configuration maximale admissible 36 LEDs 1000mA 72 LEDS 700mA",
+      "text6": "Facteur de Maintenance associé",
+      "text7": "pour la source (Mfb)",
+      "text8": "0,95"
+    },
+    "text21": "A",
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text26": "*",
+    "text27": "3000K",
+    "text28": "2700K",
+    "text29": "2200K"
+  },
+  {
+    "page": "52",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.II.2.10 IK 08",
+    "manu_name": "ZUMTOBEL",
+    "title": " Luminaire  « CARAT »",
+    "description": {
+      "text1": "Luminaire d’éclairage urbain et routier à fixation latérale ou",
+      "text2": "sommitale, équipé d’une source LED, il se décline en différentes",
+      "text3": "répartitions lumineuses."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel et routier."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "De 12 à 60 LEDS.",
+      "text3": "Deux tailles : Small et Large",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "60 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonderie d’aluminium et fermeture en PMMA.",
+      "text3": "Configuration maximale admissible 60 LEDs 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text18": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text22": "10",
+    "text4": " CL II",
+    "text24": "*",
+    "text25": "3000K",
+    "text26": "2700K",
+    "text27": "2200K"
+  },
+  {
+    "page": "54",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public IK 10",
+    "text3": "A.II.3.1 CL II",
+    "manu_name": "CARANDINI",
+    "title": " Luminaire  « TMAX »",
+    "description": {
+      "text1": "Projecteur équipé d’une source LED à fixation orientable.",
+      "text2": "Nombreuses configurations possibles."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des tunnels et souterrains."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Température de couleur : 4000K.",
+      "text3": "Diverses distributions photométriques (L1L1,L1L5,L1L6,L1L7,L5L6,L6L6, L7L7,L8L7)",
+      "text4": "Config L064 L084 L104 L124 L164 L204 L314 L404",
+      "text5": "Nb",
+      "text6": "LED",
+      "text7": "8 10 13 15 20 24 40 48",
+      "text8": "Puiss 59W 73W 95W 110W 147W 176W 286W 357W",
+      "cma": "",
+      "mfb": "0,95"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en aluminium extrudé anodisé, verre plat trempé. Compartiment",
+      "text3": "indépendant du driver en aluminium.",
+      "text4": "Dimensions maximales :",
+      "text5": "Configuration maximale admissible",
+      "text6": "44 LED / 600mA",
+      "text7": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text24": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "IK 10",
+      "text3": "CL II",
+      "text4": "ULOR Ø"
+    },
+    "text4": " ULOR Ø"
+  },
+  {
+    "page": "55",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.II.3.2 IK 08",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « FV32 LED »",
+    "description": {
+      "text1": "Luminaire  à répartition lumineuse symétrique  ou asymétrique équipé",
+      "text2": "d’une source LED, fixation suspendue ou murale directe pour tout type de",
+      "text3": "configuration ligne centrale, angles ou fixation murale. Diverses",
+      "text4": "inclinsaisons possibles."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des tunnels et souterrains."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Température de couleur : 4000K.",
+      "text3": "Diverses distributions photométriques",
+      "text4": "FV32 LED1 de 64 à 120 LED (70W à 183W)",
+      "text5": "FV32 LED2 de 160 à 240 LED (179W à 365W)",
+      "cma": "",
+      "mfb": "0,95"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en aluminium extrudé protégé par oxydation électrolytique, vis en",
+      "text3": "acier inoxydable, verre thermiquement trempé 5mm d’épaisseur.",
+      "text4": "Configuration maximale admissible",
+      "text5": "240 LED / 500mA",
+      "text6": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text7": "Luminaire Longueur",
+      "text8": "(mm)",
+      "text9": "Largeur",
+      "text10": "(mm)",
+      "text11": "Hauteur",
+      "text12": "(mm)",
+      "text13": "FV32 LED1 731 272 135",
+      "text14": "FV32 LED2 1265 272 135"
+    },
+    "text30": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR Ø",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text4": " CL I",
+    "text35": "et II"
+  },
+  {
+    "page": "56",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t  d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR < Ø",
+    "text3": "A.II.3.3 IK 08",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « TFLEX »",
+    "description": {
+      "text1": "Luminaire modulaire avec une gamme de fixations, câblages,",
+      "text2": "photométries et gestion pour toutes les zones des tunnels."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des tunnels et souterrains."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Température de couleur : 4000K.",
+      "text3": "Nombre de LEDs : Tflex base de 20 à 60 LEDS. Modules (maximum 3) : 80 LEDS par module.",
+      "cma": "",
+      "mfb": "0,95"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier aluminium, optique PMMA et protecteur en verre.",
+      "text3": "Configuration maximale admissible",
+      "text4": "60 LED (TFLEX base) : 700mA",
+      "text5": "80 LED (pour 1 module) / 1000mA",
+      "text6": "240 LED (pour 3 modules) / 700mA",
+      "text7": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text8": "Luminaire A B C",
+      "text9": "TFLEX BASE 488 244 415",
+      "text10": "TFLEX MODULE 1 385 69 389",
+      "text11": "TFLEX MODULE 2 385 69 788",
+      "text12": "TFLEX MODULE 3 385 69 1177",
+      "text13": "TFLEX COMBI 1 440 117 786",
+      "text14": "TFLEX COMBI 2 440 117 1175",
+      "text15": "TFLEX COMBI 3 440 17 1564"
+    },
+    "text27": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR < Ø",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text4": " CL I",
+    "text32": "et II"
+  },
+  {
+    "page": "58",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.III.1 IK 08",
+    "manu_name": "BEGA",
+    "title": " Luminaire  « Série 66457 »",
+    "description": {
+      "text1": "Projecteur Applique LED à répartition lumineuse asymétrique ou",
+      "text2": "asymétrique-elliptique. Pour l’éclairage de plafonds, murs et sols.",
+      "text3": "L’angle d’inclinaison du luminaire est réglable sur 0° ou 15°."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance, piéton et des chaussées."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Gamme d’appliques, luminaires pour fixation tête de mât et latérale.",
+      "text3": "Asymétrique : 24350-66451-66452, de 14,6W à 69,2W.",
+      "text4": "Asymétrique elliptique : 66453-66455-66457-66463, de 14,8W à 69,2W.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "mfb": "",
+      "angle": "15°",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Luminaire en fonderie d’aluminium, aluminium et acier inoxydable. Verre",
+      "text3": "de sécurtié antireflet. Joint silicone. Réflecteur en aluminium pur anodisé.",
+      "text4": "Luminaire A mm B mm C mm D mm",
+      "text5": "24350-66451-66453-66455-",
+      "text6": "66457",
+      "text7": "255 60 410 130",
+      "text8": "66452-66463 340 75 610 170",
+      "text9": "Facteur de Maintenance associé pour la source (Mfb)",
+      "text10": "annoncé par le fournisseur",
+      "text11": "L70B50 à 500000h",
+      "text12": "Angle maximal d’orientation pour conformité arrêté 15°"
+    },
+    "text27": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text4": " CL I",
+    "text32": "*",
+    "text33": "3000K"
+  },
+  {
+    "page": "59",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.III.2 IK 08",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « NEOS LED »",
+    "description": {
+      "text1": "Projecteur LED fixé à l’aide d’une fourche permettant de varier",
+      "text2": "l’angle d’inclinaison. Large gamme de photométries disponible. Il",
+      "text3": "existe 3 tailles."
+    },
+    "terms_of_use": {
+      "text1": "Utilisable pour éclairage d’ambiance et fonctionnel."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "NEOS 1 : 16 ou 24 LED (maximum 38W), NEOS 2 : 32 ou 48 LED (maximum 75W)",
+      "text3": "NEOS 3 : 64 LED (maximum 100W)",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "",
+      "mfb": "0,95",
+      "angle": "20° à 45°",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Fonte d’aluminium, aluminium et acier inoxydable, Verre de sécurité clair.",
+      "text3": "Possibilité de projecteur IK10 avec grille en option.",
+      "text4": "Luminaire Hauteur",
+      "text5": "mm",
+      "text6": "L1 mm L2 mm largeur",
+      "text7": "mm",
+      "text8": "NEOS 1 100 325 360 320",
+      "text9": "NEOS 2 140 390 441 398",
+      "text10": "NEOS 3 160 520 600 500",
+      "text11": "Configuration maximale admissible",
+      "text12": "NEOS 1 : 24 LEDs 500mA",
+      "text13": "NEOS 2 : 48 LEDs 500mA",
+      "text14": "NEOS 3 : 64 LEDs 500mA",
+      "text15": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text16": "Angle maximal d’orientation pour conformité arrêté 20° à 45°"
+    },
+    "text30": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text4": " CL I",
+    "text35": "et II",
+    "text36": "*",
+    "text37": "3000K",
+    "text38": "2700K"
+  },
+  {
+    "page": "6",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.1.6 IK 10",
+    "manu_name": "ECLATEC",
+    "title": " Luminaire  « NISMO ZENIUM »",
+    "description": {
+      "text1": "Luminaire tête de mât équipé d’une source LED en version portée."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers, particulièrement parcs et jardins.",
+      "text2": "Hauteur du point lumineux 4 à 5m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Version uniquement avec vasque profonde.",
+      "text3": "Répartition lumineuse symétrique (ECL) ou asymétrique (ERL, ERS, LRM).",
+      "text4": "Option : obturateur oupe-flux arrière.",
+      "text5": "Existe en version 12-20-26 Leds.",
+      "text6": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "26 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonderie d’aluminium injecté. Vasque profonde transparente en",
+      "text3": "polycarbonate.",
+      "text4": "Configuration maximale admissible 26 LEDs 700mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text20": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text25": "3000K",
+    "text26": "2700K 2200K"
+  },
+  {
+    "page": "60",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.III.3 IK 08",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « POSS »",
+    "description": {
+      "text1": "Projecteur modulable équipé d’un module LED. Fixation sur un mur, au",
+      "text2": "plafond ou intégré dans un mât. Alimentation intégrée ou déportée."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage fonctionnel, d’ambiance, illumination et",
+      "text2": "l’éclairage piétonnier."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Longueur de 10cm à 1m. De 8 à 64Leds.",
+      "text3": "Deux versions : fonctionnel (longitudinal ou transversal) et illumination (circulaire intensive 8°,",
+      "text4": "circulaire semi-extensive 22°, circulaire extensive 27° ou elliptique 8°-46°)",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "64 LEDs 350mA",
+      "mfb": "0,95",
+      "angle": "A préciser selon configuration",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K",
+        "text4": "Couleur"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Profilé extrudé lissé exempt de rainure. Protecteur polycarbonate anti UV clair, sablé. Flasques en",
+      "text3": "aluminium.",
+      "text4": "Configuration maximale admissible 64 LEDs 350mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text6": "Angle maximal d’orientation pour conformité arrêté A préciser selon configuration"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text22": "Eclairage illumination Eclairage fonctionnel transversal",
+    "text23": "Eclairage fonctionnel longitudinal",
+    "text24": "A",
+    "text4": " CL II",
+    "text28": "*",
+    "text29": "3000K",
+    "text30": "2700K 2200K",
+    "text31": "Couleur"
+  },
+  {
+    "page": "61",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.III.4 IK 10",
+    "manu_name": "ECLATEC",
+    "title": " Luminaire  « XEON »",
+    "description": {
+      "text1": "Projecteur équipé d’un module LED. Fixation par patin pour mât",
+      "text2": "conique et cylindro-ocnique ou applique murale via patin",
+      "text3": "spécifique. Le projecteur est orientable sur le plan horizontal de -",
+      "text4": "60° à +60° et de 0° à 75° sur le plan vertical."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance, illumination et l’éclairage",
+      "text2": "piétonnier."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Deux tailles disponibles Xeon 2 (6LED/50W) et Xeon 3 (9LED/73W)",
+      "text3": "Optiques : intensif – moyen – large – ERS - ERL",
+      "text4": "Accessoires : Visière, grille anti éblouissement et verre diffusant",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "9 LEDs 700mA",
+      "mfb": "0,90",
+      "angle": "30° à 70°",
+      "temperature": {
+        "text1": "Couleur",
+        "text2": "*",
+        "text3": "3000K",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps, module et patin en fonerie d’aluminium injecté. Vasque en verre",
+      "text3": "trempé thermiquement et sérigraphié.",
+      "text4": "Luminaire Ø (mm) Hauteur (mm)",
+      "text5": "XEON 2 240 206",
+      "text6": "XEON 3 300 260",
+      "text7": "Configuration maximale admissible 9 LEDs 700mA",
+      "text8": "Facteur de Maintenance associé pour la source (Mfb) 0,90",
+      "text9": "Angle maximal d’orientation pour conformité arrêté 30° à 70°"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text27": "A",
+    "text4": " CL II",
+    "text31": "Couleur",
+    "text32": "*",
+    "text33": "3000K",
+    "text34": "4000K"
+  },
+  {
+    "page": "62",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.III.5 IK 08",
+    "manu_name": "IGUZZINI",
+    "title": " Luminaire  « PLATEA PRO »",
+    "description": {
+      "text1": "Projecteur LED d’éclairage à lumière direct.",
+      "text2": "Possibilité d’inclinaison verticale du produit de +5°/-90° avec échelle graduée à",
+      "text3": "pas de 10° pourvue de blocages mécaniques assurant la stabilité de",
+      "text4": "l’orientation du faisceau lumineux. Le produit s’oriente horizontalement à ±30°",
+      "text5": "grâce aux ouvertures pratiquées sur la patère."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance et illumination."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "36 LED blanches ou RGBW.",
+      "text3": "Différentes photométries disponibles : de intensif à extensif, wall washer, elliptique longitundinal",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "Couleur",
+        "text2": "*",
+        "text3": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Le produit se compose d’un groupe optique à patère et d’une collerette",
+      "text3": "en alliage d’aluminium. Verre de fermeture sodocalcique trempé",
+      "text4": "transparent incolore d’épaisseur 5 mm.",
+      "text5": "Toutes les vis utilisées sont en inox A2.",
+      "text6": "Luminaire Longeur",
+      "text7": "en mm",
+      "text8": "Largeur",
+      "text9": "en mm",
+      "text10": "Epaisseur",
+      "text11": "en mm",
+      "text12": "PLATEA PRO 406 276 195"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR Ø",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text29": "A",
+    "text4": " CL II",
+    "text33": "Couleur",
+    "text34": "*",
+    "text35": "3000K Couleur",
+    "text36": "4000K"
+  },
+  {
+    "page": "63",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.III.6 IK 08",
+    "manu_name": "LUMENPULSE",
+    "title": " Luminaire  « LUMENBEAM »",
+    "description": {
+      "text1": "Projecteur à répartition lumineuse intensive ou extensive, horizontale ou",
+      "text2": "verticale équipé d’une source LED, orientable de 228° autour de l’axe",
+      "text3": "horizontal."
+    },
+    "terms_of_use": {
+      "text1": "Utilisable pour les illuminations mais également pour l’éclairage des",
+      "text2": "espaces piétonniers et routiers."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "72 LEDs maximum avec Driver intégré.",
+      "text3": "5 tailles possibles LBS (14W), LBM(28W), LBL(50W), LBG(100W) et LBX(140W).",
+      "text4": "Optiques : 6°, 10°, 20°, 40°, 60°.",
+      "text5": "Plusieurs accessoires possibles.",
+      "text6": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "72 LEDs 350mA",
+      "mfb": "0,95",
+      "angle": "A définir selon configuration",
+      "temperature": {
+        "text1": "Couleur",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "Couleur",
+        "text5": "4000K",
+        "text6": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier en aluminium moulé sous pression, joints en silicone.",
+      "text3": "Configuration maximale admissible 72 LEDs 350mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text5": "Angle maximal d’orientation pour conformité arrêté A définir selon configuration",
+      "text6": "Tailles LBS LBM LBL LBG LBX",
+      "text7": "Diamètre Ø (mm) 138 212 257 339 445",
+      "text8": "Hauteur totale (mm) 213 271 378 476 587",
+      "text9": "Epaisseur (mm) 118 122 121 146 146"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text27": "Couleur",
+    "text28": "A",
+    "text30": "3000K",
+    "text31": "2700K",
+    "text32": "Couleur",
+    "text33": "4000K",
+    "text34": "2200K",
+    "text4": " CL II"
+  },
+  {
+    "page": "64",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 68",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.III.7 IK 10",
+    "manu_name": "LUMTEAM",
+    "title": " Luminaire  « NIKO »",
+    "description": {
+      "text1": "Petit projecteur à LED avec driver à déporter dans un boitier étanche."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’illumination."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Version classique ou Wall.",
+      "text3": "Accessoires possibles : casquette intégrée, canon",
+      "text4": "Gamme d’optiques disponibles : 12°, 24°, 30°, 50°, WallWasher 12°x62° ou",
+      "text5": "24°x62°"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Projecteur en aluminium."
+    },
+    "certifications": {
+      "text1": "IP 68",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL III"
+    },
+    "text17": "A",
+    "text4": " CL III"
+  },
+  {
+    "page": "65",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m en t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.III.8 IK 10",
+    "manu_name": "MEYER",
+    "title": " Luminaire  « ECOSPOT LED »",
+    "description": {
+      "text1": "Projecteur équipé d’un module LED optique intensive et d’une source",
+      "text2": "LED haute performance. Le projecteur est orientable dans le plan",
+      "text3": "d’inclinaison de ±140°. Fixation sur étrier."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance et illumination."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Source led 19W",
+      "text3": "Optique : intensive – semi extensive –ovoïde vertical"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d’aluminium moulé, pièces extérieures en acier inoxydable",
+      "text3": "verre trempé, étrier de fixation en aluminium."
+    },
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL I"
+    },
+    "text18": "A",
+    "text4": " CL I"
+  },
+  {
+    "page": "66",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s Option : IK 10 avec grille",
+    "text2": "LEM-VP Laboratoire de l’espace public IP 65",
+    "text3": "A.III.9 ULOR Ø",
+    "manu_name": "MEYER",
+    "title": " Luminaire  « NIGHTSPOT A2 LED »",
+    "description": {
+      "text1": "Projecteur à répartition lumineuse symétrique, intensive ou extensive et d’une",
+      "text2": "source LED. La fixation se fait sur pied ou étrier."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance et illumination."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources: LED 33W"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d’aluminium moulé, réflecteur parabolique en acier",
+      "text3": "inoxydable, joints en silicone, vasque en verre trempé prismatique, pied de",
+      "text4": "fixation en aluminium."
+    },
+    "certifications": {
+      "text1": "Option : IK 10 avec grille",
+      "text2": "IP 65",
+      "text3": "ULOR Ø",
+      "text4": "IK 08",
+      "text5": "CL I"
+    },
+    "text18": "A",
+    "text4": " IK 08",
+    "text5": " CL I"
+  },
+  {
+    "page": "67",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s Option : IK 10 avec grille",
+    "text2": "LEM-VP Laboratoire de l’espace public IP 65",
+    "text3": "A.III.10 ULOR Ø",
+    "manu_name": "MEYER",
+    "title": " Luminaire  « NIGHTSPOT B LED»",
+    "description": {
+      "text1": "Projecteur à répartition lumineuse symétrique, intensive ou extensive et d’une",
+      "text2": "source LED. La fixation se fait sur pied ou étrier."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance et illumination."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources: LED 44W"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d’aluminium moulé, réflecteur parabolique en acier",
+      "text3": "inoxydable, joints en silicone, vasque en verre trempé prismatique, pied de",
+      "text4": "fixation en aluminium."
+    },
+    "certifications": {
+      "text1": "Option : IK 10 avec grille",
+      "text2": "IP 65",
+      "text3": "ULOR Ø",
+      "text4": "IK 08",
+      "text5": "CL I"
+    },
+    "text18": "A",
+    "text4": " IK 08",
+    "text5": " CL I"
+  },
+  {
+    "page": "68",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.III.11 IK 10",
+    "manu_name": "MEYER",
+    "title": " Luminaire  « SUPERLIGHT COMPACT LED »",
+    "description": {
+      "text1": "Projecteur équipé d’un module LED optique intensive,",
+      "text2": "extensive ou faisceau ovoïde  et d’une source LED haute performance.",
+      "text3": "Le projecteur est orientable dans le plan d’inclinaison de ±120°.",
+      "text4": "Fixation sur étrier."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance et illumination."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Source led 30W",
+      "text3": "Optique : intensive –extensive –ovoïde verticale ou horizontale"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d’aluminium injecté sous pression, pièces extérieures",
+      "text3": "en acier inoxydable, verre trempé, étrier de fixation en aluminium",
+      "text4": "avec repères d’inclinaison gradués.",
+      "text5": "Option IK10 avec grille de protection."
+    },
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL I"
+    },
+    "text21": "A",
+    "text4": " CL I"
+  },
+  {
+    "page": "69",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.III.12 IK 10",
+    "manu_name": "MEYER",
+    "title": " Luminaire  « SUPERLIGHT COMPACT MICRO LED »",
+    "description": {
+      "text1": "Projecteur équipé d’un module LED optique intensive,",
+      "text2": "extensive ou faisceau ovoïde  et d’une source LED haute performance.",
+      "text3": "Le projecteur est orientable dans le plan d’inclinaison de ±120°.",
+      "text4": "Fixation sur étrier."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance et illumination."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Source led 8W",
+      "text3": "Optique : intensive –extensive –ovoïde verticale ou horizontale"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d’aluminium injecté sous pression, pièces extérieures",
+      "text3": "en acier inoxydable, verre trempé, étrier de fixation en aluminium",
+      "text4": "avec repères d’inclinaison gradués.",
+      "text5": "Option IK10 avec surface de protection."
+    },
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL I"
+    },
+    "text21": "A",
+    "text4": " CL I"
+  },
+  {
+    "page": "7",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.1.7 IK 10+",
+    "manu_name": "ECLATEC",
+    "title": " Luminaire  « ZEN »",
+    "description": {
+      "text1": "Luminaire à répartition lumineuse symétrique ou asymétrique équipé d’une",
+      "text2": "source LED à fixation supportée."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers.",
+      "text2": "Hauteur du point lumineux 4 à 5m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Répartition lumineuse symétrique (ECL) ou asymétrique (ERL, ERS, LRM).",
+      "text3": "Option : obturateur coupe-flux arrière.",
+      "text4": "Existe en version 12-20-26 Leds.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "24 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Socle et capot en fonderie d’aluminium injecté. Plateau supérieur",
+      "text3": "transparent ou gris en polycarbonate.",
+      "text4": "Configuration maximale admissible 24 LEDs 700mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text20": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10+",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text25": "*",
+    "text26": "3000K",
+    "text27": "2700K 2200K"
+  },
+  {
+    "page": "70",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.III.13 IK 08",
+    "manu_name": "OPTICALIGHT",
+    "title": " Luminaire  « 2500T »",
+    "description": {
+      "text1": "Projecteur LED d’illumination pour la projection d’images."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance, d’illumination et de mise en",
+      "text2": "valeur patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "3000K standard. 2200K à 6000K sur demande.",
+      "text3": "Optiques : 29°/46°/68°/90°"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier en Aluminium, masque en aluminium et borosilicate."
+    },
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR Ø",
+      "text3": "IK 08",
+      "text4": "CL III"
+    },
+    "text16": "A",
+    "text4": " CL III"
+  },
+  {
+    "page": "71",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.III.14 IK 08",
+    "manu_name": "ROHL",
+    "title": " Luminaire  « ICAROS XT »",
+    "description": {
+      "text1": "Projecteur à répartition lumineuse intensive, extensive, symétrique ou",
+      "text2": "asymétrique équipé d’une source LED. Le projecteur est orientable",
+      "text3": "autour de l’axe horizontal avec fixation sur étrier, existe en 2 modèles."
+    },
+    "terms_of_use": {
+      "text1": "Utilisable pour éclairage d’ambiance et fonctionnel",
+      "text2": "Hauteur du point lumineux : de 5 à 10m"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "P-650/Icaros XT1 - 16 LEDs : 15W@350mA, 22W@500mA, 32W@700mA",
+      "text3": "P-651/Icaros XT2 - 16 ou 32 LEDs, de 15 à 64W",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "32 LEDs 700mA",
+      "mfb": "0,95",
+      "angle": "25° à 50°",
+      "temperature": {
+        "text1": "*"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonderie d’aluminium, joints silicone, vasque en verre trempé,",
+      "text3": "étrier en acier galvanisé thermolaqué, visserie inox.",
+      "text4": "Configuration maximale admissible 32 LEDs 700mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text6": "Angle maximal d’orientation pour conformité arrêté 25° à 50°",
+      "text7": "Luminaire",
+      "text8": "Diamètre",
+      "text9": "Ø",
+      "text10": "(mm)",
+      "text11": "Hauteur",
+      "text12": "totale",
+      "text13": "(mm)",
+      "text14": "Longueur",
+      "text15": "(mm)",
+      "text16": "P-650/Icaros",
+      "text17": "XT1",
+      "text18": "281 351 317",
+      "text19": "P-651/Icaros",
+      "text20": "XT2",
+      "text21": "331 414 377"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text37": "A",
+    "text39": "*",
+    "text40": "3000K Couleur",
+    "text4": " CL II"
+  },
+  {
+    "page": "72",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.III.15 IK 08",
+    "manu_name": "SELUX",
+    "title": " Luminaire  « OLIVIO »",
+    "description": {
+      "text1": "Projecteur LED à répartition lumineuse asymétrique routière,",
+      "text2": "intensive, semi intensive ou extensive. Le projecteur disponible en trois tailles",
+      "text3": "est orientable et inclinable."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des chaussées et des espaces piétonniers."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "-OLIVIO 150 : Jusqu’à 24W",
+      "text3": "-OLIVIO 200 : Jusqu’à 41W",
+      "text4": "-OLIVIO 300 : Jusqu’à 53W",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "OLIVIO 300",
+      "mfb": "0,95",
+      "angle": "35° à 60°",
+      "temperature": {
+        "text1": "Couleur",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "Couleur",
+        "text5": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonderie d’aluminium, vasque plane en verre trempé.",
+      "text3": "Configuration maximale admissible OLIVIO 300",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text5": "Angle maximal d’orientation pour conformité arrêté 35° à 60°"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text21": "A",
+    "text4": " CL II",
+    "text25": "Couleur",
+    "text26": "3000K",
+    "text27": "2700K",
+    "text28": "Couleur",
+    "text29": "4000K"
+  },
+  {
+    "page": "73",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 67",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "A.III.16 IK 08",
+    "manu_name": "SELUX",
+    "title": " Luminaire  « OLIVIO GOBO »",
+    "description": {
+      "text1": "Projecteur LED d’illumination pour la projection d’images."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage d’ambiance, d’illumination et de mise en",
+      "text2": "valeur patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "temperature": {
+        "text1": "OLIVIO 300 : 49W-6500K"
+      },
+      "text2": "OLIVIO 300 : 49W-6500K",
+      "text3": "Focales 45, 63, 85 ou 150mm."
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonderie d’aluminium, vasque plane en verre trempé. Gobos en verre."
+    },
+    "certifications": {
+      "text1": "IP 67",
+      "text2": "ULOR Ø",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text16": "A",
+    "text4": " CL II"
+  },
+  {
+    "page": "75",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.IV.1 IK 10",
+    "manu_name": "FONTES DE PARIS COMATELEC",
+    "title": " Lanterne   / « Lanterne carrée",
+    "description": {
+      "text1": "contemporaine»",
+      "text2": "Lanterne de style carrée contemporaine Fontes de Paris, fixation portée ou",
+      "text3": "suspendue équipée d’une vasque claire et d’un kit LED Comatelec."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des voies moyennes à larges."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Kit LED : 16, 24 ou 32 Leds. Courant d’alimentation : 250mA à 500mA",
+      "text3": "Plusieurs répartitions lumineuses disponibles. Option : backlight",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "32 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Chapeau anti-pluie aluminium, dôme et cage en Inox, Etrier en bronze,",
+      "text3": "Vasque en PMMA XT Choc claire.",
+      "text4": "Configuration maximale admissible 32 LEDs 500mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text20": "A",
+    "text22": "* * *",
+    "text23": "3000K",
+    "text24": "2700K",
+    "text25": "2200K",
+    "text4": " CL II"
+  },
+  {
+    "page": "76",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <3%",
+    "text3": "A.IV.2 IK 10",
+    "manu_name": "FONTES DE PARIS COMATELEC",
+    "title": " Lanterne   / « Lyre »",
+    "description": {
+      "text1": "Lanterne de style Lyre à fixation supportée équipée d’un kit retrofit LED et",
+      "text2": "d’une vasque aspect « goutte d’eau ».  Elle se décline en 2 tailles."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers et petites à moyennes",
+      "text2": "voies. Supports associés :",
+      "text3": "Fûts      : A, D, DL, G, H, I, N, Montmartre",
+      "text4": "Crosse   : Marais, Montmartre. Console : CN12"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources LED : jusqu’à 48 LEDs, de 250mA à 500mA.",
+      "text3": "Plusieurs répartitions lumineuses disponibles. Option : backlight",
+      "text4": "Driver IP66 nécessaire ou driver dans boîte étanche IP66.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "48 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Calotte, cheminée et dôme en tôle d’aluminium, le jeu de cercles et les bras de la",
+      "text3": "lyre et les rinceaux en alliage d’aluminium de désignation AS, le piédouche en",
+      "text4": "ferritique à cœur noir et la vasque en PMMA XT Choc avec couvercle PS Choc.",
+      "text5": "Plans:  92/0001E- 92/0002E- 92/0003E- 91/0006E- 91/0007E- 91/0007E-",
+      "text6": "91/0008E- 91/009E- 91/0010E- 91/0011E- 91/0012E- 91/0013E- 91/0014E  détails",
+      "text7": "et cotes générales de la Lyre MM et GM",
+      "text8": "Luminaire Ø mm hauteur mm",
+      "text9": "Lyre Moyen Modèle  700 1400",
+      "text10": "Lyre Grand Modèle  880 1530",
+      "text11": "Configuration maximale admissible 48 LEDs 500mA",
+      "text12": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <3%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text30": "A",
+    "text31": "* * *",
+    "text32": "3000K",
+    "text33": "2700K",
+    "text34": "2200K",
+    "text4": " CL II"
+  },
+  {
+    "page": "77",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P   L ab o r a t o i r e  d e l’espace public ULOR <3%",
+    "text3": "A.IV.3 IK 10",
+    "manu_name": "FONTES DE PARIS COMATELEC",
+    "title": " Lanterne   / « R2S »",
+    "description": {
+      "text1": "Lanterne de style à fixation supportée ou suspendue équipée d’un kit retrofit",
+      "text2": "LED et d’une vasque claire."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des voies moyennes et des espaces piétonniers. Supports",
+      "text2": "associés :",
+      "text3": "Fûts      : a, d, d1, g, h, i,  Montmartre",
+      "text4": "Crosse   : Bouquet Trinité. Console : Marais, Montmartre"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources LED : jusqu’à 24 LEDs, de 250mA à 500mA.",
+      "text3": "Plusieurs répartitions lumineuses disponibles. Option : backlight",
+      "text4": "Driver IP66 nécessaire ou driver dans boîte étanche IP66.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*)",
+      "cma": "24 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Dôme en tôle de cuivre conforme à la norme NF EN",
+      "text3": "1172 (classement NF A51-430), la cage en tôle de",
+      "text4": "laiton, laiton fondu ou bronze et le pied en laiton",
+      "text5": "fondu ou bronze et la vasque en PMMA XT Choc",
+      "text6": "avec couvercle PS Choc. Finition vasque claire.",
+      "text7": "Luminaire Ø en mm Hauteur en mm",
+      "text8": "R2S 500 880",
+      "text9": "Configuration maximale admissible 24 LEDs 500mA",
+      "text10": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <3%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text28": "A",
+    "text29": "* *",
+    "text30": "*",
+    "text31": "3000K",
+    "text32": "2700K 2200K",
+    "text4": " CL II"
+  },
+  {
+    "page": "78",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <3%",
+    "text3": "A.IV.4 IK 10",
+    "manu_name": "FONTES DE PARIS COMATELEC",
+    "title": " Lanterne   / « R4 »",
+    "description": {
+      "text1": "Lanterne de style ronde à fixation supportée ou suspendue équipée d’un kit retrofit",
+      "text2": "LED et d’une vasque claire."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des voies moyennes et des espaces piétonniers. Supports",
+      "text2": "associés :",
+      "text3": "Fûts      : B, E, Er, F, Fr, G, Champs-Elysées",
+      "text4": "Crosse   : Bouquet Vendôme. Console : CN12"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources LED : jusqu’à 32 LEDs, de 250mA à 500mA.",
+      "text3": "Plusieurs répartitions lumineuses disponibles. Option : backlight",
+      "text4": "Driver IP66 nécessaire ou driver dans boîte étanche IP66.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "32 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Dôme en tôle de cuivre conforme à la norme NF EN",
+      "text3": "1172 (classement NF A51-430), la cage en tôle de",
+      "text4": "laiton, laiton fondu ou bronze et le pied en laiton",
+      "text5": "fondu ou bronze et la vasque en PMMA XT Choc",
+      "text6": "avec couvercle PS Choc. Finition vasque claire.",
+      "text7": "Luminaire Ø en mm Hauteur en mm",
+      "text8": "R4 590 1190",
+      "text9": "Configuration maximale admissible 32 LEDs 500mA",
+      "text10": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <3%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text28": "A",
+    "text29": "* *",
+    "text30": "*",
+    "text31": "3000K",
+    "text32": "2700K 2200K",
+    "text4": " CL II"
+  },
+  {
+    "page": "79",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t  d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <3%",
+    "text3": "A.IV.5 IK 10",
+    "manu_name": "FONTES DE PARIS COMATELEC",
+    "title": " Lanterne   / « R5 »",
+    "description": {
+      "text1": "Lanterne de style ronde à fixation supportée ou suspendue équipée d’un kit retrofit",
+      "text2": "LED et d’une vasque claire."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des voies moyennes et des espaces piétonniers. Supports",
+      "text2": "associés :",
+      "text3": "Fûts : B, E, Er, F, Fr, G, Champs-Elysées",
+      "text4": "Crosse : Bouquet Vendôme. Console : CN12"
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources LED : jusqu’à 32 LEDs, de 250mA à 500mA.",
+      "text3": "Plusieurs répartitions lumineuses disponibles. Option : backlight",
+      "text4": "Driver IP66 nécessaire ou driver dans boîte étanche IP66.",
+      "text5": "Option kit illumination dans ouverture dôme.",
+      "text6": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "32 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Dôme en tôle de cuivre conforme à la norme NF EN",
+      "text3": "1172 (classement NF A51-430), la cage en tôle de",
+      "text4": "laiton, laiton fondu ou bronze et le pied en laiton",
+      "text5": "fondu ou bronze et la vasque en PMMA XT Choc avec",
+      "text6": "couvercle PS Choc. Finition vasque claire. Plans:",
+      "text7": "-92/0012E pour les lanternes type R5",
+      "text8": "-98/0036E pour le détail du pied des lanternes",
+      "text9": "-04/003E : principe de l’ouverture dans le dôme pour",
+      "text10": "l’illumination des lanternes rondes",
+      "text11": "-98/003E-1:pour la fixation en mode suspendu",
+      "text12": "Luminaire Ø en mm Hauteur en mm",
+      "text13": "R5 630 1270",
+      "text14": "Configuration maximale admissible 32 LEDs 500mA",
+      "text15": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <3%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text34": "A",
+    "text35": "* * *",
+    "text36": "3000K",
+    "text37": "2700K 2200K",
+    "text4": " CL II"
+  },
+  {
+    "page": "8",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR >1%",
+    "text3": "A.I.1.8 IK 10++",
+    "manu_name": "GHM",
+    "title": " Luminaire  « AIGUILLE »",
+    "description": {
+      "text1": "Ensemble mât et luminaire LED associé."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers des parcs et jardins (avec",
+      "text2": "temporalité).",
+      "text3": "Hauteur du point lumineux 4,30m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Répartition lumineuse éclairement route large (ERL).",
+      "text3": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonderie d’aluminium. Vasque en polycarbonate clair.",
+      "text3": "Candélabre de section ovale évolutive, monobloc, moulé en fonte."
+    },
+    "text16": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR >1%",
+      "text3": "IK 10++",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text21": "*",
+    "text22": "3000K"
+  },
+  {
+    "page": "80",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 23",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <3%",
+    "text3": "A.IV.6 IK 09",
+    "manu_name": "LENZI",
+    "title": " Lanterne  « DEMI-LANTERNE CARREE »",
+    "description": {
+      "text1": "Demi-lanterne de style carrée à fixation en applique équipée d’un module LED."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers et passages couverts."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "1 module de 8Leds.",
+      "text3": "4 photométries T2,T3, T4 et CSTP.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "8 LEDs 700mA",
+      "mfb": "0,90",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Dôme et cage en inox, vasque claire en polycarbonate.",
+      "text3": "Configuration maximale admissible 8 LEDs 700mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,90"
+    },
+    "certifications": {
+      "text1": "IP 23",
+      "text2": "ULOR <3%",
+      "text3": "IK 09",
+      "text4": "CL II"
+    },
+    "text17": "A",
+    "text19": "*",
+    "text20": "3000K",
+    "text4": " CL II"
+  },
+  {
+    "page": "81",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <3%",
+    "text3": "A.IV.7 IK 08",
+    "manu_name": "LENZI",
+    "title": " Lanterne  « DUPLEIX »",
+    "description": {
+      "text1": "Lanterne de style à fixation suspendue équipée d’une source LED, avec possibilité",
+      "text2": "de module spécifique à l’illumination dans le dôme."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage de la sous-face des viaducs du métro aérien."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Possibilité d’insertion d’un ou deux modules Illumination dans le dôme de la",
+      "text3": "lanterne",
+      "text4": "Configurations :",
+      "text5": "- Un à trois modules EP (16LEDS/32LEDS/48LEDS) en partie basse sans",
+      "text6": "illumination",
+      "text7": "- Un à deux modules EP (16LEDS/32LEDS) en partie basse avec un ou deux",
+      "text8": "modules ILLUM (8LEDS/16LEDS) dans le dôme",
+      "text9": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "48 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Dôme et calotte en cuivre vernis. Couronne",
+      "text3": "inférieure et supérieure en bronze vernis. Vasque",
+      "text4": "en polycarbonate incolore",
+      "text5": "Hublot en polycarbonate clair sablé intérieur.",
+      "text6": "Configuration maximale admissible 48 LEDs 500mA",
+      "text7": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <3%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text26": "A",
+    "text28": "*",
+    "text29": "3000K",
+    "text30": "2700K",
+    "text4": " CL II"
+  },
+  {
+    "page": "82",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.IV.8 IK 10",
+    "manu_name": "RAGNI",
+    "title": " Lanterne  « Lanterne carrée VENCE »",
+    "description": {
+      "text1": "Lanterne de style carrée contemporaine, fixation portée ou suspendue équipée",
+      "text2": "d’une vasque claire."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des voies moyennes à larges."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources LED : de 16 à 48 LEDS par pas de 8 Leds",
+      "text3": "Courant d’alimentation : 200mA à 500mA",
+      "text4": "Plusieurs répartitions lumineuses disponibles.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "48 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Acier inoxydable, cuivre ou laiton. La version vasque structurée n’est pas",
+      "text3": "conforme à l’arrêté sur les nuisances lumineuses.",
+      "text4": "Configuration maximale admissible 48 LEDs 500mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text20": "A",
+    "text22": "* * *",
+    "text23": "3000K",
+    "text24": "2700K",
+    "text25": "2200K",
+    "text4": " CL II"
+  },
+  {
+    "page": "83",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <3%",
+    "text3": "A.IV.9 IK 10",
+    "manu_name": "FONTES DE PARIS COMATELEC",
+    "title": " / « KIT RETROFIT LYRE »",
+    "description": {
+      "text1": "Kit rétrofit Led avec vasque pour luminaires de style existants de type Lyre."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage piétonniers et petites à moyennes voies."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources LED : jusqu’à 48 LEDs",
+      "text3": "Courant d’alimentation : 250mA à 500mA",
+      "text4": "Plusieurs répartitions lumineuses disponibles.",
+      "text5": "Option : backlight",
+      "text6": "Driver IP66 nécessaire ou driver dans boîte étanche IP66.",
+      "text7": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "48 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Vasque en PMMA XT Choc avec couvercle PS Choc.",
+      "text3": "Finition vasque structurée pour les luminaires Lyres.",
+      "text4": "Découpe pour module LED avec 4 inserts étanches.",
+      "text5": "Deux tailles possibles : Lyre Moyen Modèle (MM) et Lyre Grand Modèle (GM)",
+      "text6": "Configuration maximale admissible 48 LEDs 500mA",
+      "text7": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <3%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text23": "A",
+    "text24": "* * *",
+    "text25": "3000K",
+    "text26": "2700K 2200K",
+    "text4": " CL II"
+  },
+  {
+    "page": "84",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <3%",
+    "text3": "A.IV.10 IK 10",
+    "manu_name": "FONTES DE PARIS COMATELEC",
+    "title": " / « KIT RETROFIT RONDE »",
+    "description": {
+      "text1": "Kit rétrofit Led avec vasque pour luminaires de style existants Ronds (R2,R4,R5)."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage piétonniers et petites à moyennes voies."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources LED : jusqu’à 32 LEDs",
+      "text3": "Courant d’alimentation : 250mA à 500mA",
+      "text4": "Plusieurs répartitions lumineuses disponibles",
+      "text5": "Option : backlight.",
+      "text6": "Driver IP66 nécessaire ou driver dans boîte étanche IP66.",
+      "text7": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "32 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Vasque en PMMA XT Choc avec couvercle PS Choc. Finition vasque claire.",
+      "text3": "Découpe pour module LED avec 4 inserts étanches.",
+      "text4": "Plusieurs tailles recensées :",
+      "text5": "Configuration maximale admissible 32 LEDs 500mA",
+      "text6": "Facteur de Maintenance associé pour la source (Mfb) 0,95",
+      "text7": "R2",
+      "text8": "3 tailles : R2, R2 Opéra et R2 Rivoli",
+      "text9": "R4 2 tailles : R4 et R4 NG",
+      "text10": "R5 1 taille : R5"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <3%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text26": "A",
+    "text27": "* * *",
+    "text28": "3000K",
+    "text29": "2700K 2200K",
+    "text4": " CL II"
+  },
+  {
+    "page": "85",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <3%",
+    "text3": "A.IV.11 IK 10",
+    "manu_name": "FONTES DE PARIS COMATELEC",
+    "title": " / « KIT RETROFIT VIARMES »",
+    "description": {
+      "text1": "Kit rétrofit Led avec vasque pour luminaires de style existants de type Viarmes."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage piétonniers et petites à moyennes voies."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Sources LED : jusqu’à 24 LEDs",
+      "text3": "Courant d’alimentation : 250mA à 500mA",
+      "text4": "Plusieurs répartitions lumineuses disponibles.",
+      "text5": "Option : backlight",
+      "text6": "Driver IP66 nécessaire ou driver dans boîte étanche IP66.",
+      "text7": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "24 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Vasque en PMMA. Découpe pour module LED.",
+      "text3": "Configuration maximale admissible 24 LEDs 500mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <3%",
+      "text3": "IK 10",
+      "text4": "CL II"
+    },
+    "text20": "A",
+    "text21": "* * *",
+    "text22": "3000K",
+    "text23": "2700K 2200K",
+    "text4": " CL II"
+  },
+  {
+    "page": "88",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "B.I.1 IK 08",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « NAJACOISE »",
+    "description": {
+      "text1": "Luminaire LED pour la création d’ambiances lumineuses sur les espaces",
+      "text2": "résidentiels et places."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage des voies piétonnes et places.",
+      "text3": "Conforme à l’arrêté pour la partie éclairage fonctionnel avec allumage",
+      "text4": "séparé et extinction de la partie décorative."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Existe en 24LEDs 3000K pour le niveau d’éclairement + 3LEDs 3000K pour",
+      "text3": "l’effet décoratif de la vasque.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Matériaux non renseignés.",
+      "text3": "Luminaire H mm Ø mm",
+      "text4": "Najacoise",
+      "text5": "327",
+      "text6": "228"
+    },
+    "text22": "B",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text27": "*",
+    "text28": "3000K"
+  },
+  {
+    "page": "89",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "B.I.2 IK 08",
+    "manu_name": "COMATELEC",
+    "title": " Luminaire  « TEMPORE LED »",
+    "description": {
+      "text1": "Luminaire équipé d’une source LED à fixation supportée pour lequel seule la",
+      "text2": "partie inférieure est lumineuse."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage des espaces piétonniers.",
+      "text3": "Installation recommandée au-delà de 5m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "hotométries disponibles au regard de l’arrêté : 5118 et 5102.",
+      "text3": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "cma": "24 LEDs 500mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Matériaux non renseignés.",
+      "text3": "Configuration maximale admissible 24 LEDs 500mA",
+      "text4": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text18": "B",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text23": "*",
+    "text24": "3000K"
+  },
+  {
+    "page": "9",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 66",
+    "text2": "LEM-V P  Laboratoire de l’espace public ULOR <1%",
+    "text3": "A.I.1.9 IK 10++",
+    "manu_name": "ROHL",
+    "title": " Luminaire  « VASCO »",
+    "description": {
+      "text1": "Luminaire à répartition lumineuse symétrique ou asymétrique équipé d’une",
+      "text2": "source LED à fixation supportée."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers.",
+      "text2": "Hauteur du point lumineux 4 à 5m."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Version VASCO 540.",
+      "text3": "Plusieurs optiques disponibles : Asymétrique chaussée (H1), routière (R1 et",
+      "text4": "R2), Symétrique (P1), Asymétrique projecteur (A1).",
+      "text5": "Existe en version 16-32 Leds.",
+      "text6": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "text7": "⚫",
+      "cma": "32 LEDs 700mA",
+      "mfb": "0,95",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Socle et capot en fonderie d’aluminium injecté et vasque en polycarbonate",
+      "text3": "clair.",
+      "text4": "Configuration maximale admissible 32 LEDs 700mA",
+      "text5": "Facteur de Maintenance associé pour la source (Mfb) 0,95"
+    },
+    "text22": "A",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10++",
+      "text4": "CL II"
+    },
+    "text4": " CL II",
+    "text27": "*",
+    "text28": "3000K",
+    "text29": "2700K 2200K"
+  },
+  {
+    "page": "90",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "B.I.3 IK 08",
+    "manu_name": "IGUZZINI",
+    "title": " Luminaire  « ANELLO »",
+    "description": {
+      "text1": "Luminaire LED pour la création d’ambiances lumineuses sur les espaces",
+      "text2": "résidentiels et places."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage de la zone Hôpital Broussais."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Optique symétrique à lumière directe.",
+      "text3": "55W / 2250lm",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Groupe optique formé d’une structure en fusion d'aluminium laqué",
+      "text3": "gris foncé.",
+      "text4": "Ecran externe en méthacrylate transparent éclairant.",
+      "text5": "Eléments décoratifs internes en méthacrylate de forme pyramidale.",
+      "text6": "Mât en acier EN 10025-S235JR zingué à chaud 70 microns et revêtu de peinture en",
+      "text7": "poudre. Forme conique (ø 110 - 70 mm) et hauteur de 3600 mm."
+    },
+    "text21": "B",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text4": " CL I",
+    "text26": "*",
+    "text27": "3000K"
+  },
+  {
+    "page": "91",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 66",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR <1%",
+    "text3": "B.I.4 IK 10",
+    "manu_name": "ECLATEC",
+    "title": " Colonne  « AXEL »",
+    "description": {
+      "text1": "Colonne lumineuse équipée d’une source LED."
+    },
+    "terms_of_use": {
+      "text1": "Réservé à l’éclairage des espaces piétonniers."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Equipée de 24LEDS",
+      "text3": "Plusieurs photométries disponibles. Option Coupe-Flux.",
+      "text4": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "2700K 2200K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Tube en polycarbonate clair de diamètre 170mm.",
+      "text3": "Socle en aluminium moulé.",
+      "text4": "Mât tubulaire acier diamère 168mm."
+    },
+    "text16": "B",
+    "certifications": {
+      "text1": "IP 66",
+      "text2": "ULOR <1%",
+      "text3": "IK 10",
+      "text4": "CL I"
+    },
+    "text4": " CL I",
+    "text21": "ou II",
+    "text22": "*",
+    "text23": "3000K",
+    "text24": "2700K 2200K"
+  },
+  {
+    "page": "92",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.I.5 IK 08",
+    "manu_name": "MEYER",
+    "title": " Applique   « HIGHRISE »",
+    "description": {
+      "text1": "Applique double-feu (haut et bas) équipée de sources LED."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à la mise en lumière et au balisage.",
+      "text3": "Flux lumineux > à 100lm : produit uniquement avec temporalité."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en trois couleurs : noir, blanc et gris argent.",
+      "text3": "2 modules LED 16W (32W)",
+      "text4": "Distributions lumineuses variables : ultra intensif/intensif, ultra",
+      "text5": "intensif/extensif, ultra intensif/extensif elliptique et ultra",
+      "text6": "intensif/asymétrique.",
+      "text7": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d’aluminium anti corrosion.",
+      "text3": "Toutes les pièces extérieurs sont en acier inoxydable.",
+      "text4": "Verre trempé , joints en silicone."
+    },
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR Ø",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text23": "*",
+    "text24": "3000K",
+    "text4": " CL I",
+    "text27": "4000K",
+    "text28": "B"
+  },
+  {
+    "page": "93",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 65",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.I.6 IK 08",
+    "manu_name": "MEYER",
+    "title": " Applique   « UNIT »",
+    "description": {
+      "text1": "Applique simple feu équipé d’une source LED. Appareillage intégré."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé au balisage et illumination",
+      "text3": "Flux lumineux > à 100lm : produit uniquement avec temporalité."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Distributions lumineuses : asymétrique ou extensif elliptique.",
+      "text3": "Eclairage direct ou indirect.",
+      "text4": "2 modules LED 18W (36W).",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "*",
+        "text2": "3000K",
+        "text3": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d’aluminium injecté sous pression.",
+      "text3": "Réflecteur haute performance, toutes pièces extérieures en acier inoxydable.",
+      "text4": "Verre trempé résistant aux chocs thermiques."
+    },
+    "certifications": {
+      "text1": "IP 65",
+      "text2": "ULOR Ø",
+      "text3": "IK 08",
+      "text4": "CL I"
+    },
+    "text4": " CL I",
+    "text23": "*",
+    "text24": "3000K",
+    "text25": "4000K",
+    "text26": "B"
+  },
+  {
+    "page": "94",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 68",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.I.7 IK 10++",
+    "manu_name": "LEC",
+    "title": " Encastré  « Allevard 5716T »",
+    "description": {
+      "text1": "Encastré rond orientable équipé d’une source LED. Rotation à 360° du",
+      "text2": "projecteur dans son encastrement pour orienter le flux dans la bonne",
+      "text3": "direction. Supporte le roulage occasionnel de tout véhicule."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’illumination.",
+      "text3": "Flux lumineux > à 100lm : produit uniquement avec temporalité."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Faisceau orientable. Plateau de LED inclinable (0° à 25°).",
+      "text3": "Température de couleur et couleur au choix.",
+      "text4": "7 LEDs de puissance.",
+      "text5": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "4000K",
+        "text2": "3000K",
+        "text3": "2700K",
+        "text4": "Couleur",
+        "text5": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en aluminium anodisé. Colerette en aluminium usiné anodisé",
+      "text3": "incolore.",
+      "text4": "Fenêtre polycarbonate anti-vandalisme,",
+      "text5": "anti-UV.",
+      "text6": "Visserie en acier inoxydable. Sans saillie."
+    },
+    "certifications": {
+      "text1": "IP 68",
+      "text2": "ULOR Ø",
+      "text3": "IK 10++",
+      "text4": "CL I"
+    },
+    "text25": "B",
+    "text4": " CL I",
+    "text28": "4000K",
+    "text29": "3000K",
+    "text30": "2700K",
+    "text31": "Couleur",
+    "text32": "4000K"
+  },
+  {
+    "page": "95",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 68",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.I.8 IK 10",
+    "manu_name": "MEYER",
+    "title": " Encastré  « Uplight 220 »",
+    "description": {
+      "text1": "Encastré équipé d’une source LED."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé au balisage.",
+      "text3": "Flux lumineux > à 100lm : produit uniquement avec temporalité."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en une seule couleur : noir",
+      "text3": "Distributions lumineuses variables et réglables : lèche-mur, poutre",
+      "text4": "étroite,",
+      "text5": "faisceau moyen large et faisceau large.",
+      "text6": "Module 1 LED x 19W orientable sur 0-20°.",
+      "text7": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps en fonte d’aluminium anti corrosion.",
+      "text3": "Peinture double couche en poudre polyester thermolaquée.",
+      "text4": "Toutes les pièces extérieurs sont en acier inoxydable.",
+      "text5": "Verre trempé en finition arasante sur collerette inox, résistant aux chocs",
+      "text6": "thermiques et à une forte pression (5000kg)."
+    },
+    "certifications": {
+      "text1": "IP 68",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL I"
+    },
+    "text25": "B",
+    "text4": " CL I",
+    "text28": "3000K",
+    "text29": "4000K"
+  },
+  {
+    "page": "96",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s  D é p l a c e m e n t s IP 67",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.I.9 IK 10",
+    "manu_name": "MEYER",
+    "title": " Linéaire  « Ecoline »",
+    "description": {
+      "text1": "Linéaire, mural ou plafonnier équipé d’une source LED."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance, d’illumination et de mise en valeur",
+      "text3": "patrimoniale."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en 3 gammes de couleur : noir, blanc et gris argenté.",
+      "text3": "Distributions photométriques variables : wallwashing (12°/108°),",
+      "text4": "asymétrique (36°) et faisceau large (67°).",
+      "text5": "Disponible en 5 puissances : 3LEDs, 6LEDS, 9LEDS, 12LEDs et 15LEDs x 2.5W.",
+      "text6": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Boitier en profilé d’aluminium moulé sous pression hautement résistant à la",
+      "text3": "corrosion.",
+      "text4": "Pièces extérieures en acier inoxydable, plaque de recouvrement",
+      "text5": "en polycarbonate antichoc.",
+      "text6": "Luminaire A mm B mm C mm",
+      "text7": "Ecoline (3LEDs-8W) 362 58 54",
+      "text8": "Ecoline (6LEDs-15W) 662 58 54",
+      "text9": "Ecoline (9LEDs-23W) 962 58 54",
+      "text10": "Ecoline (12LEDs-30W) 1262 58 54",
+      "text11": "Ecoline (15LEDs-38W) 1562 58 54"
+    },
+    "certifications": {
+      "text1": "IP 67",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL I"
+    },
+    "text29": "B",
+    "text4": " CL I",
+    "text32": "3000K",
+    "text33": "4000K",
+    "text34": ""
+  },
+  {
+    "page": "97",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 67",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.I.10 IK Ø",
+    "manu_name": "OSRAM",
+    "title": " Linéaire  « Linearlight Flex »",
+    "description": {
+      "text1": "Luminaire linéaire hermétique compact à répartition lumineuse",
+      "text2": "diffuse."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage de signailisation et enseignes lumineuses."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en 2 versions : Monochrome et Blanc.",
+      "text3": "Disponible en 3000mm (Monochrome) et 6000mm (Monochrome et",
+      "text4": "Blanc).",
+      "text5": "Optiques diffuses à 120°.",
+      "text6": "140 ou 150 LEDs / m.",
+      "text7": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "3000K",
+        "text2": "2700K",
+        "text3": "Couleur",
+        "text4": "4000K"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Matériaux non renseignés."
+    },
+    "text19": "B",
+    "certifications": {
+      "text1": "IP 67",
+      "text2": "ULOR Ø",
+      "text3": "IK Ø",
+      "text4": "CL III"
+    },
+    "text4": " CL III",
+    "text24": "3000K",
+    "text25": "2700K",
+    "text26": "Couleur",
+    "text27": "4000K"
+  },
+  {
+    "page": "98",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP 68",
+    "text2": "LEM-VP Laboratoire de l’espace public ULOR Ø",
+    "text3": "B.I.11 IK 10",
+    "manu_name": "SAMMODE STUDIO",
+    "title": " Linéaire   « Qinu »",
+    "description": {
+      "text1": "Luminaire linéaire hermétique compact à répartition lumineuse diffuse."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage de passage souterrain, d’ambiance et",
+      "text3": "de mise en valeur."
+    },
+    "range": {
+      "text1": "⚫ Gamme",
+      "text2": "Disponible en deux effets lumineux : films miroir sans tain et",
+      "text3": "prismatique.",
+      "text4": "Flux lumineux sur 360°.",
+      "temperature": {
+        "text1": "Module LED 74W 2700K",
+        "text2": "2700K"
+      },
+      "text5": "Module LED 74W 2700K",
+      "text6": "Gamme de températures de couleur disponibles et celles qualifiées (*) :"
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques",
+      "text2": "Corps coextrudé en PMMA/PO."
+    },
+    "text18": "B",
+    "certifications": {
+      "text1": "IP 68",
+      "text2": "ULOR Ø",
+      "text3": "IK 10",
+      "text4": "CL Ø"
+    },
+    "text4": " CL Ø",
+    "text23": "2700K"
+  },
+  {
+    "page": "99",
+    "text1": "D i r e c t i o n   d e  l a   V o i r i e   e t   d e s   D é p l a c e m e n t s IP X8",
+    "text2": "LEM-VP Laboratoire de l’espace public IK 08",
+    "text3": "B.I.11 ULOR Ø",
+    "manu_name": "SELUX",
+    "title": " Linéaire  « ECORCE REPUBLIQUE -FLEXLED »",
+    "description": {
+      "text1": "Armature cylindrique décorative  équipée de 16 segments",
+      "text2": "lumineux Flexled (Fine barrette), sur une hauteur de 2.5m",
+      "text3": "alimentée par un driver  et piloté en RGB par un contrôleur DMX."
+    },
+    "terms_of_use": {
+      "text1": "Matériel droit d’usage.",
+      "text2": "Réservé à l’éclairage d’ambiance de la place de la République."
+    },
+    "range": {
+      "text1": "⚫ Gamme:",
+      "text2": "LED : 30  leds RGB /m, appareil déporté.",
+      "text3": "Gamme de températures de couleur disponibles et celles qualifiées (*) :",
+      "temperature": {
+        "text1": "Couleur"
+      }
+    },
+    "tech_charac": {
+      "text1": "⚫ Caractéristiques techniques :",
+      "text2": "Fenêtre plane en résine, profilé en aluminium et cylindre de protection",
+      "text3": "en acier inoxydable ajouré.",
+      "text4": "Luminaire Longueur",
+      "text5": "mm",
+      "text6": "ECORCE 2500"
+    },
+    "text20": "B",
+    "text21": "Couleur",
+    "certifications": {
+      "text1": "IP X8",
+      "text2": "IK 08",
+      "text3": "ULOR Ø",
+      "text4": "CL III"
+    },
+    "text4": " CL III"
+  }
+]
